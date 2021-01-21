@@ -1,0 +1,35 @@
+company,id,profits,equity/assets(%),type
+Skua AB,5567029086,negative_decline,90,liquidation
+Lipe Hus AB,5590006671,negative_decline,94,liquidation
+Termino C 5198 AB,5567378632,negative_decline,25,dissolved_merger
+Innovative Byggdesign Sthlm AB,5590067566,negative_decline,100,liquidation
+Restadhs Konsult Aktiebolag,5563931186,negative_decline,90,liquidation
+Roslagens Golvavjämning AB,5590607536,negative_decline,100,liquidation
+Termino C 5355 AB,5568386808,negative_decline,53,liquidation
+Last verse 54446 AB,5567989982,negative_decline,96,dissolved_merger
+SWECO Western Europe AB,5562211689,negative_decline,95,dissolved_merger
+Ovansundet Entreprenad AB,5565958591,positive_increase,98,liquidation
+MEL SURVEY SWEDEN AB,5591562383,positive_increase,87,liquidation
+Termino C 4718 AB,5567478010,negative_decline,64,liquidation
+S11 ÖBH ​​Snabb AB,5563107720,positive_increase,96,dissolved_merger
+Öresunds Stängsel AB,5565657631,negative_decline,100,liquidation
+Åtvidabergs Rör AB,5564915105,positive_increase,36,dissolved_merger
+Årjäng Nordväst Vind AB,5568122666,positive_increase,55,dissolved_merger
+Z-Klimat Aktiebolag,5562945245,positive_increase,93,dissolved_merger
+Wangeskog Byggställ AB,5567393722,negative_decline,40,dissolved_merger
+Vä Kyl- & Frysservice Aktiebolag,5563960953,positive_increase,25,dissolved_merger
+Vyens AB,5568031966,positive_increase,32,dissolved_merger
+VVS Teknik Rör i Väst AB,negative_decline,5564424694,100,dissolved_merger
+Elverket Entreprenad AB,5569106791,positive_increase,24,liquidation
+Elstenen 200 AB,5566741541,negative_decline,31,dissolved_merger
+Elstenen 100 AB,5562275775,negative_decline,71,dissolved_merger
+Elovation in Sweden AB,5568741150,negative_decline,87,dissolved_merger
+Elbolaget Glödlampan Aktiebolag,5564553666,positive_increase,58,dissolved_merger
+Electrical & telecommunications installation Enköping AB,5567534507,negative_decline,92,dissolved_merger
+The end plate SLEFA 105103 AB,5590944681,positive_increase,62,dissolved_merger
+Dr Hercules AB,5567586754,positive_increase,70,dissolved_merger
+City Byggnads i Fosie AB,5567221808,positive_increase,81,dissolved_merger
+Gävle Elbyggnads i Gävle AB,5565022620,positive_increase,64,dissolved_merger
+The end plate FIBMA 107966 AB,5566850185,negative_decline,95,dissolved_merger
+
+

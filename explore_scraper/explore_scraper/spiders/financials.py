@@ -22,7 +22,7 @@ class FinancialsSpider(scrapy.Spider):
 
     ids = list(companies['company_no'].values)
 
-    start_urls = [f'https://www.allabolag.se/{Id}/bokslut' for Id in ids[60000:]]
+    start_urls = [f'https://www.allabolag.se/{Id}/bokslut' for Id in ids[:1000]]
 
 
     def parse(self, response):
@@ -34,7 +34,8 @@ class FinancialsSpider(scrapy.Spider):
                     'company': element.css('h1::text').get().replace(",",";"),
                     'id': int(element.css('span.orgnr::text')[1].get().replace('\n', '').strip().replace('-', '')),
                     #'year': element.css('label::text')[i-2].get(),
-                    'year': element.xpath(f'//th[@class = "data-pager__page data-pager__page--{i-2}"]/text()').get().strip()[:7],
+                    'year': element.xpath(f'//th[@class = "data-pager__page data-pager__page--{i-2}"]/text()').get().strip()[:7][:4],
+                    'date': element.xpath(f'//th[@class = "data-pager__page data-pager__page--{i-2}"]/text()').get().strip()[:7],
                     'net_sales': element.css(f'td:nth-child({i})::text').get().replace('\n', '').replace(' ', '').strip(),
                     'other_sales': element.css(f'td:nth-child({i})::text')[1].get().replace('\n', '').replace(' ', '').strip(),
                     'op_profit_ebit': element.css(f'td:nth-child({i})::text')[2].get().replace('\n', '').replace(' ', '').strip(),
@@ -66,6 +67,6 @@ class FinancialsSpider(scrapy.Spider):
                     'prof_margin': element.css(f'td:nth-child({i})::text')[28].get().replace('\n', '').replace(' ', '').replace(",", ".").strip(),
                     'gross_prof': element.css(f'td:nth-child({i})::text')[29].get().replace('\n', '').replace(' ', '').replace(",", ".").strip(),
                     'working_cap': element.css(f'td:nth-child({i})::text')[30].get().replace('\n', '').replace(' ', '').replace(",", ".").strip(),
-                    'solidity_equity_assets_ratio': element.css(f'td:nth-child({i})::text')[31].get().replace('\n', '').replace(' ', '').replace(",", ".").strip(),
-                    'cash_liquidity_quick_ratio': element.css(f'td:nth-child({i})::text')[32].get().replace('\n', '').replace(' ', '').replace(",", ".").strip(),
+                    'solidity': element.css(f'td:nth-child({i})::text')[31].get().replace('\n', '').replace(' ', '').replace(",", ".").strip(),
+                    'quick_ratio': element.css(f'td:nth-child({i})::text')[32].get().replace('\n', '').replace(' ', '').replace(",", ".").strip(),
                 }

@@ -60,7 +60,7 @@ class CompaniesFilteringSpider(scrapy.Spider):
         print("######################")
         # select a country (in same order as the hits found above)
         num_countries = len(self.country_hits)
-        num_countries = 21 # just to test revenue
+        #num_countries = 21 # just to test revenue
         for i in range(1,num_countries+1):
             print(f"{i} has started")
             # select the box ans load the page
@@ -73,13 +73,13 @@ class CompaniesFilteringSpider(scrapy.Spider):
             time.sleep(2)
             response = Selector(text=driver.page_source)
 
-            visited = [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15]
+            #visited = [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15]
 
             # check the counts 
-            if i in visited:
-                # used to parse the countries 1 by one
-                pass
-            elif self.country_hits[i-1] > 8000:
+            # if i in visited:
+            #     # used to parse the countries 1 by one
+            #     pass
+            if self.country_hits[i-1] > 8000:
                 # filter based on revenue
                 self.revenue_filter(driver, driver.current_url)
             else:

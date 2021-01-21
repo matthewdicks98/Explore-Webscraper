@@ -13,7 +13,7 @@ class StatusSpider(scrapy.Spider):
     ids = list(companies['company_no'].values)
 
     start_urls = [
-        f'https://www.allabolag.se/{Id}/verksamhet/' for Id in ids[60000:]]
+        f'https://www.allabolag.se/{Id}/verksamhet/' for Id in ids[:1000]]
 
     # company with banckrupsy: 5567658033
 
@@ -54,6 +54,28 @@ class StatusSpider(scrapy.Spider):
                 status = 'aktivt'
             elif remark != None and actual_status == 'Registrerad':
                 status = 'inaktivt'
+
+            company_form = element.xpath("//*[contains(text(),'Bolagsform')]/following-sibling::dd[1]/text()").get()
+            county = element.xpath("//*[contains(text(),'Länsäte')]/following-sibling::dd[1]/text()").get()
+            registered_date = element.xpath("//*[contains(text(),'Bolaget registrerat')]/following-sibling::dd[1]/text()").get()
+            industry = element.xpath("//*[contains(text(),'Bransch')]/following-sibling::ul/li/a/text()").get()
+            operation = element.xpath("//*[contains(text(),'Bransch')]/following-sibling::ul/li/ul/li/a/text()").get()
+
+            if county:
+                county = county.strip().replace(",", ";")
+
+            if company_form:
+                company_form = company_form.strip().replace(",", ";")
+
+            if registered_date:
+                registered_date = registered_date.strip()
+
+            if industry:
+                industry = industry.strip().replace(",", ";")
+
+            if operation:
+                operation = operation.strip().replace(",", ";")
+
             yield {
                 'company': element.css('h1::text').get().replace(",",";"),
                 'id': int(element.css('span.orgnr::text')[1].get().replace('\n','').replace('-','').strip()),
@@ -61,6 +83,11 @@ class StatusSpider(scrapy.Spider):
                 'status':status,
                 'actual_status': actual_status,
                 'remark': remark,
-                'default_date': default_date
+                'default_date': default_date,
+                'company_form': company_form,
+                'county': county,
+                'industry': industry,
+                'operation': operation,
+                'registered_date': registered_date
                 #'default_date': None if element.css('dd:contains("Bolaget")::text').get() ==' Bolaget är aktivt' else element.css('li.margin-top::text').get().replace('Konkurs', '').replace('avslutad','').replace('inledd','').replace('Konkurs inledd','').replace('Likvidation','').replace('\n','').strip()
             }

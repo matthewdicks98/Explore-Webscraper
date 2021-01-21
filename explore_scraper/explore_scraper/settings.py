@@ -55,6 +55,9 @@ DOWNLOAD_DELAY = 1
 #DOWNLOADER_MIDDLEWARES = {
 #    'explore_scraper.middlewares.ExploreScraperDownloaderMiddleware': 543,
 #}
+# DOWNLOADER_MIDDLEWARES = {
+#     'scrapy_selenium.SeleniumMiddleware': 800
+# }
 
 # Enable or disable extensions
 # See https://doc.scrapy.org/en/latest/topics/extensions.html
@@ -64,9 +67,9 @@ DOWNLOAD_DELAY = 1
 
 # Configure item pipelines
 # See https://doc.scrapy.org/en/latest/topics/item-pipeline.html
-ITEM_PIPELINES = {
-   'explore_scraper.pipelines.ExploreScraperPipeline': 300,
-}
+#ITEM_PIPELINES = {
+#   'explore_scraper.pipelines.ExploreScraperPipeline': 300,
+#}
 
 # Enable and configure the AutoThrottle extension (disabled by default)
 # See https://doc.scrapy.org/en/latest/topics/autothrottle.html
@@ -88,3 +91,10 @@ AUTOTHROTTLE_TARGET_CONCURRENCY = 1.0
 #HTTPCACHE_DIR = 'httpcache'
 #HTTPCACHE_IGNORE_HTTP_CODES = []
 #HTTPCACHE_STORAGE = 'scrapy.extensions.httpcache.FilesystemCacheStorage'
+
+# selenium
+# from shutil import which
+# SELENIUM_DRIVER_NAME = 'firefox'
+# SELENIUM_DRIVER_EXECUTABLE_PATH = which(
+#     'geckodriver-v0.28.0-linux64/geckodriver')
+# SELENIUM_DRIVER_ARGUMENTS = ['-headless']  # '--headless' if using chrome instead of firefox
