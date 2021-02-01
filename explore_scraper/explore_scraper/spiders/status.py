@@ -13,7 +13,7 @@ class StatusSpider(scrapy.Spider):
     ids = list(companies['company_no'].values)
 
     start_urls = [
-        f'https://www.allabolag.se/{Id}/verksamhet/' for Id in ids[:1000]]
+        f'https://www.allabolag.se/{Id}/verksamhet/' for Id in ids]
 
     # company with banckrupsy: 5567658033
 
@@ -89,5 +89,4 @@ class StatusSpider(scrapy.Spider):
                 'industry': industry,
                 'operation': operation,
                 'registered_date': registered_date
-                #'default_date': None if element.css('dd:contains("Bolaget")::text').get() ==' Bolaget är aktivt' else element.css('li.margin-top::text').get().replace('Konkurs', '').replace('avslutad','').replace('inledd','').replace('Konkurs inledd','').replace('Likvidation','').replace('\n','').strip()
             }

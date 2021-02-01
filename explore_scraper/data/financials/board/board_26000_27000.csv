@@ -1,0 +1,443 @@
+company,id,number_of_board_memebers,average_age_board,executives,total_active_assignments,total_prev_assignments,companies
+Processkontroll GT AB,5567562540,4,57,Wideman; Erik Johan,5,1,Processkontroll PID AB|Processkontroll GT AB|Processkontroll Mekaniska i Stenungsund AB|Linder Medical Skärhamn AB|Affina AB
+Arkitekterna Krook & Tjäder i Göteborg AB,5563408078,5,54,Andersson; Elin Margareta,3,1,DEFYRA Arkitekter Aktiebolag|Arkitekterna Krook & Tjäder i Göteborg AB|Earthbound Technologies AB
+VBK Konsulterande ingenjörer AB,5566086103,9,48,Kjellman; Lars Ola,1,2,VBK Konsulterande ingenjörer AB
+VBK Konsulterande ingenjörer AB,5566086103,9,48,Beets; Erik Christian,1,1,VBK Konsulterande ingenjörer AB
+Brigo AB,5566283544,4,53,Ingvast; Sten Thomas,3,5,Brigo AB|Andinge AB|Inplastor AB
+Byggnadsaktiebolaget Tornstaden Syd,5591424444,4,50,Olofsson; Erik Albert Harald,5,3,Byggnadsaktiebolaget Tornstaden|Byggnadsaktiebolaget Tornstaden Öst|Byggnadsaktiebolaget Tornstaden Syd|Vaxholm Kv Dykaren Ekonomisk förening|Tornstaden Bygg Holding AB
+Byggspecialisten i Göteborg Aktiebolag,5567159115,3,59,Bratland; Magnus Christoffer,3,4,Ängspromenaden AB|Byggspecialisten i Göteborg Aktiebolag|NGB Utveckling AB
+4D Bygg AB,5568490824,3,43,Nyman; John Fredrik,9,6,4D Bygg AB|Eco Foam i Sverige AB|Högberg Gillner Arkitektur AB|4D Utveckling AB|4D Group AB|4D Förvaltning AB|Långgatans smedja AB|Kolfiberförstärkning i Sverige AB|Sjömansgården i Göteborg AB
+Boskalis Sweden AB,5562400050,3,50,Tomperi; Hannu Pekka,2,3,Terramare Oy; filial i Sverige|Boskalis Sweden AB
+SLL Energi & Infrastruktur AB,5566571799,4,59,Johansson; Leif Erik,3,4,SLL Energi & Infrastruktur Group AB|SLL Energi & Infrastruktur AB|LL El o Linjeentreprenad Aktiebolag
+SLL Energi & Infrastruktur AB,5566571799,4,59,Elofsson Waerner; Per Jonas,8,13,SLL Energi & Infrastruktur Group AB|SLL Energi & Infrastruktur AB|BNM Solutions AB|CoSafe Technology AB|Frändefors 1:226 AB|Tössedalen|JPE Capital AB|Bostadsrättsföreningen Hugin 16
+CS Maskin i Göteborg AB,5567243091,5,51,Waern; Jens Peter Lennart,1,1,CS Maskin i Göteborg AB
+Göteborgs Byggsystem AB,5591327308,5,53,Lindqvist; Johan Edvard,7,5,Göteborgs Byggsystem AB|Byggruppen Väst i Landvetter AB|Instö Hamn AB|Instö Marin AB|Byggruppen Väst i Landvetter Holding AB|Bergums Prästgård AB|Göteborgs Byggsystem Holding AB
+Lindholmens Bygg i Göteborg AB,5567073043,2,35,Jonason; Olof Jerker,4,11,Lindholmens Bygg i Göteborg AB|Eriksbergs Holding AB|Hjuviks Fastighets AB|ALVIJO AB
+Såg- & Betongborrning i Uddevalla Aktiebolag,5562264043,3,53,Qvarfordt; Kjell Urban,11,4,Idealbilar i Uddevalla AB|Såg- & Betongborrning i Uddevalla Aktiebolag|Såg & Betong Fastighets AB|Q - Mec Entreprenad och Förvaltning AB|KOMMANDITBOLAGET VIKTORSBERG 2|UMC Qvarfordt Förvaltning AB|Björbäck Förvaltning AB|Ideal Förvaltning i Uddevalla AB|Såg & Betong Förvaltning AB|UQ Finans AB|Q - Fastigheter AB
+JÅLAB Bygg AB,5564332210,4,59,Karlsson; Martin Roger,5,2,JÅLAB Bygg AB|JÅLAB Projektutveckling AB|JÅLAB Construction AB|JÅLAB Holding AB|JÅLAB Entreprenad AB
+Bergab-Berggeologiska Undersökningar Aktiebolag,5561732396,9,47,Karlsson; Hans Joakim,1,1,Bergab-Berggeologiska Undersökningar Aktiebolag
+Bergab-Berggeologiska Undersökningar Aktiebolag,5561732396,9,47,Jansson; Krister Rune,2,4,Bergab-Berggeologiska Undersökningar Aktiebolag|H Konsult i Dalby AB
+DC Wäst AB,5590044094,4,34,Westerberg; Claes Bertil,4,1,DC Wäst AB|Svetsmontage Fritsla AB|DC Wäst Holding AB|DC Wäst Fastigheter AB
+Actemium Electro AB,5566013933,2,58,Klarén; Lars Jonas,4,1,Eitech Electro AB|Actemium Process AB|Actemium Electro AB|INAC Process AB
+SMJ Entreprenad AB,5567861496,4,42,Hedberg Joelsson; Sven Magnus Marcus,6,6,SMJ Entreprenad AB|SMJ Byggservice Väst AB|Väne-Ryr Fastighet AB|Skogen 530 AB|Marcus Maskiner Vargön AB|MMD Import AB
+ByggRex i Väst AB,5567519722,2,41,Olofsson; Mats Peter,4,0,ByggRex i Väst AB|Viddesgärdes Lantbruk & Entreprenad|Gamlestaden 79:5 Fastighets AB|Byggrex Holding AB
+GBJ Bygg Väst AB,5590250188,4,53,Dahlström; Fredrik Peter,59,40,GBJ Bygg AB|GBJ Bostadsutveckling AB|GBJ Construction AB|GBJ Bygg Väst AB|ProjektSamband AB|Bröderna Dahlström Fastigheter i Evedal AB|SantHem Lingonet AB|SantHem Råstenen 1 AB|Bröderna Dahlströms Fastigheter AB|m4 Consulting AB|GBJ Bostad Väbeln AB|GBJ Lanternan 3 AB|Åhus Stranden 1 AB|SantHem Sågcrona 1 AB|Fladern Bygg & Fastighets AB|Baggeliden Fastighets AB|GBJ Bygg Väst II AB|Åhus Bostadsutveckling AB|Björkvikens Bygg AB|GBJ Östra Färjestaden 2 AB|GBJ Väst Holding AB|GBJ Bostadsutveckling Holding V AB|Bröderna Dahlström Holding AB|Bostadsrättsföreningen Solstrimman|GBJ Bostadsutveckling IIII AB|Bostadsrättsföreningen Råstenen Mitt|Kuggås strand Mönsterås AB|Bostadsrättsföreningen Ängsbrisen|GBJ Bostadsutveckling Holding III AB|Bostadsrättsföreningen Guldpärlan|GBJ Bostadsutveckling Holding IX AB|Bostadsrättsföreningen Sundet i Uddevalla|Bostadsrättsföreningen Havslättshöjden|GBJ Bostadsutveckling Holding VIII AB|Bostadsrättsföreningen Norrängen i Lidköping|SantHem Eklövet 1 AB|SantHem Fastigheter AB|SantHem Heden AB|GBJ Heden 1 AB|GBJ Bostadsutveckling Holding X AB|GBJ Samhällsfastigheter AB|SantHem Sågcrona 2 AB|GBJ Bostad Guldpärlan 1 AB|GBJ Hammarsby AB|GBJ Bostadsutveckling Holding VII AB|GBJ Bostadsutveckling Holding VI AB|Åhus Bostadsutveckling Holding AB|GBJ Asplövet 1 AB|GBJ Hejans Lycka 1 AB|Bostadsrättsföreningen Heden i Båstad|GBJ Bostad Råstenen 3 AB|Bostadsrättsföreningen Grönskan 2 i Skövde|Bostadsrättsföreningen Ängsklockan|Bostadsrättsföreningen Grönskan 1 i Skövde|GBJ Bostadsutveckling Holding XI AB|Bostadsrättsföreningen Slätten i Trelleborg|Bostadsrättsföreningen Johnsons Minne|GBJ Bostad Lungörten 1 AB|GBJ Samhällsfastigheter Holding AB
+Anläggningsgruppen i Skaraborg Aktiebolag,5564503109,3,53,Arvidson; Jan Herman,7,7,Anläggningsgruppen i Skaraborg Aktiebolag|Falisk Invest AB|Falisk Fastigheter AB|Bostadsrättsföreningen Hamngården i Grebbestad 1|Nerja Invest AB|JARVID Invest AB|Two Summits Invest AB
+Karaten Bygg Väst AB,5569030637,4,46,Erlandsson; Jonas Jan,7,4,Karaten Bygg Väst AB|Karaten Bygg Entreprenad Väst AB|Karaten Bygg Väst Holding AB|Karaten Bygg Väst Fastighets AB|Karaten Bygg Entreprenad Väst Fastighets AB|Karaten Bygg Entreprenad Väst Holding AB|Volt & Ampere Väst AB
+Transtema AB,5563203677,2,48,Öien; Mikael Johan,1,0,Transtema AB
+DUO Asfalt AB,5567832661,4,52,Nilsson; Harald Alexander Dagson,3,3,DUO Holding AB|DUO Asfalt AB|Nilsson Invest AB
+MetuSweden AB,5568431281,4,50,Sorokin; Juri,1,1,MetuSweden AB
+Västkustens Anläggnings AB,5566570502,3,54,Eriksson; Bo Lennart,8,8,Spacem2 For smart living AB|Västkustens Anläggnings AB|ByggKreatör Väst AB|Strandblick AB|ER Projekt i Hovås AB|Belgica Property AB|ER Consulting i Hovås AB|ER Property I AB
+Installationsbolaget Sprinkler Gbg AB,5566452404,2,63,Adolfsson; Bengt Sören,9,12,Installationsgruppen Invest Gbg AB|Installationsbolaget Solna AB|InstallationsBolaget Gbg AB|Installationsbolaget Sprinkler Gbg AB|Bröderna Adolfsson Aktiebolag|80 Smaker AB|Installationsbolaget Partners Swe AB|Installationsgruppen Gbg AB|Bostadsrättsföreningen Gibraltargatan 12
+Team Builder TB AB,5567109557,3,55,Eriksson; Bo Anders,10,15,Marieholms Förvaltning AB|Team Builder TB AB|Landmärket Kungshöjd AB|Teambuilder Fastigheter Göteborg AB|Bostadsrättsföreningen Von Utfall i Sävedalen|Alesvängen Ekonomisk förening|Hovåsterrassen Holding AB|Teambuilder Projekt AB|Marieholms Fastigheter i Göteborg AB|Ale Nödinge Fastighets AB
+Forcit Consulting AB,5568119357,2,49,Sigvardsson; Stig Jörgen Per-Ola,3,2,Mossen Hockey AB|Vipnordic AB|Forcit Consulting AB
+Scaffolding Projects Sweden AB,5591076343,3,32,Öierstedt-Christiansen; Emil,2,0,Scaffolding Projects Sweden Logistics AB|Scaffolding Projects Sweden AB
+Byggnadsbolaget Curt Lundahl & Co Aktiebolag,5562141498,3,61,Bryngelsson Lundahl; Susanne G M,6,6,Blockbyggarna Aktiebolag|Byggnadsbolaget Curt Lundahl & Co Aktiebolag|GöteBo Fastighetsaktiebolag|Götaliden Aktiebolag|Bokalen i Göteborg Aktiebolag|Aktiebolaget Alfred Ohlsson
+Vinga Hiss AB,5566745849,4,50,Bodin; Fredrik Jan-Örjan,1,0,Vinga Hiss AB
+Tumleheds Bygg Aktiebolag,5565721783,2,42,Börjesson; Kim Andreas,2,0,Anton Axelsson Consulting AB|Tumleheds Bygg Aktiebolag
+Elektrobyrån Hjo Aktiebolag,5563410892,3,46,Olbrich; Claes Christoffer,6,11,Elektrobyrån Hjo Aktiebolag|Klimat och VVS-teknik i Värmland AB|K & K Väst El AB|Ströms Elinstallationer Aktiebolag|Hjo Installation Invest AB|Hjo ekonomi och bemanning AB
+Fiskebäcks Byggnads AB,5568472574,4,54,Sjölin; Peter Marcus Alexander,3,2,KONTORET i GÖTEBORG AB|Påvelunds Förvaltning AB|Fiskebäcks Byggnads AB
+S Studios Sweden Aktiebolag,5568070410,4,44,Berg Stocks; Daniel Sven Olof,1,6,S Studios Sweden Aktiebolag
+ISAB Ventilation Väst AB,5565214888,4,66,Klevgård; Robert Viktor,1,1,ISAB Ventilation Väst AB
+Innovatum AB,5565462008,13,54,Wänblom; Torsten Per Martin,9,4,Innovatum AB|Innovatum Science Center AB|Sandflo Forma AB|Innovatum Progress AB|Sandflo Fastigheter AB|Wänblom Consulting AB|Wargön Innovation AB|Innovatum Portfolio AB|SandfloGruppen AB
+SweRör J.Borg AB,5564494564,4,44,Borg; Karl Anders Jonas,10,4,SweRör J.Borg AB|SR Elektriska AB|Teknik- och Installationssamordning Sverige AB|Comfort Sverige Holding AB|SR Sprinkler AB|Boxer Creation AB|SR Ventilation AB|SR Göteborg AB|KAJBORG Holding AB|Linneakarl Invest AB
+EU-Ventilation Aktiebolag,5564447521,3,50,Bang; Mikael Tobias,1,2,EU-Ventilation Aktiebolag
+Hildings Bergsprängning Aktiebolag,5561198036,2,54,Hilding; Patric Bertil,1,4,Hildings Bergsprängning Aktiebolag
+Uddevallamålarna Aktiebolag,5564425121,4,58,Olsson; Paul Robert Urban,3,2,Uddevallamålarna Aktiebolag|ROMS Fastigheter AB|RoMi Holding AB
+Kylkontroll Göteborg Aktiebolag,5564942158,4,53,Malmström; Claes Peter,2,2,Kylkontroll Göteborg Aktiebolag|Kylkontroll Göteborg Utvecklings AB
+Kylkontroll Göteborg Aktiebolag,5564942158,4,53,Foleby; Hans Christer,2,4,Kylkontroll Göteborg Aktiebolag|Kylkontroll Göteborg Utvecklings AB
+K 21 Service AB,5568933633,5,54,Fredriksson; Thomas Peter,9,11,K 21 Entreprenad AB|K 21 Service AB|K21 Entreprenad ROT AB|K21 Entreprenad Stenungsund AB|Fastighets AB Kusen|Consulting Construction Company Fredriksson AB|Humanitera AB|HKW Fastighets AB|Marie Fredriksson Development AB
+SwedeLift Partille Hiss AB,5569142747,3,55,Juhlin; Robert Lars-Bertil,9,20,SwedeLift Partille Hiss AB|Instrumenta Diagnostiska och Kirurgiska Aktiebolag|Göteborg Tuve 19:58 Förvaltnings AB|Mellby Företagsfastigheter i Partille AB|Göteborg Tuve 19:59 Fastighets AB|Göteborg Tuve 19:59 Förvaltnings AB|Mellby Företagsfastigheter kommanditdelägare i    Partille AB|Mellby Företagsfastigheter komplementären i       Partille AB|Partille Mellby 11:6 Förvaltnings AB
+Elcab Installation Aktiebolag,5564332756,4,58,Lindbäck; Jan Martin,4,6,Elcab Installation Aktiebolag|Core Kick AB|Drivco AB|Elcab Aktiebolag
+Nordiska Ytskiktsbolaget AB,5562049790,2,58,Berg; Stig Henrik,6,23,Nordiska Ytskiktsbolaget AB|Adtension AB|PMG Project Management Group AB|HYRAB Aktiebolag|Blomfeldts Gruppen AB|Berg & Martinsson Holding AB
+Nordiska Ytskiktsbolaget AB,5562049790,2,58,Nilsson; Anders Conny Roger,5,7,Nordiska Ytskiktsbolaget AB|Adtension AB|PMG Project Management Group AB|HYRAB Aktiebolag|Blomfeldts Gruppen AB
+Inhouse Tech Göteborg AB,5568241201,5,57,Sundberg; Jan Anders Lennart,35,13,Ivar Kjellberg Aktiebolag|Aranäs Projekt AB|Bengt Dahlgren Göteborg AB|Inhouse Tech Göteborg AB|Aranäs Kolla Parkstad AB|Aranäs Onsalamotet AB|Aranäs Tölö AB|Aranäs AB|Aranäs Valand AB|Sundberg Jonsson Gårda 67:5 Fastighets AB|Sundberg Jonsson Gårda 69:26 Fastighets AB|Sundberg Jonsson Gårda 69:25 Fastighets AB|Sundberg Jonsson Gårda 69:20 Fastighets AB|Stuart Filshie Invest AB|Exacon Holding AB|Aranäs Parkering AB|Gubberoparken Fastighets AB|Aranäs i Kungsbacka 22 AB|Sundberg Jonsson Holding AB|Aranäs i Kungsbacka 14 AB|Kungsmässan AB|Aranäs i Kungsbacka 13 AB|Aranäs i Kungsbacka 20 AB|Aranäs i Kungsbacka 12 AB|Bengt Dahlgren Göteborg Holding AB|Aranäs Förvaltning AB|Aranäs i Kungsbacka 18 AB|Aranäs i Kungsbacka 21 AB|Aranäs i Kungsbacka 23 AB|Bifukarat AB|Aranäs i Kungsbacka 17 AB|Aranäs i Kungsbacka 24 AB|Aranäs Varlaberg AB|Aranäs Fastigheter AB|Aranäs i Kungsbacka 15 AB
+Konstruktionssvets L.K. Aktiebolag,5561342154,4,63,Kristensson; Lars Gunnar,19,9,K-Svets Förvaltnings Aktiebolag|Scandinavian Tank Storage AB|H-Fönstret i Lysekil Aktiebolag|Bluetest Aktiebolag|Konstruktionssvets L.K. Aktiebolag|Korrosionsteknik L.K. Aktiebolag|Ernst Strids Glasmästeri AB|Gefle TestTeknik AB|Food Radar Systems in Sweden AB|Karlshamn Tank Storage AB|L.K. Isolerteknik Aktiebolag|Plåtbröderna Aktiebolag|K-Teknik Entreprenad AB|Stenungsunds Förvaltnings Aktiebolag|Stens Måleri Aktiebolag|Push & Win AB|SPS Smart Pipe Systems AB|K-Svets Storage AB|K-Svets Venture AB
+Ottossons Golv Aktiebolag,5562383645,5,52,Ottosson; Fredrik Martin,4,10,Ottossons Golv Aktiebolag|Golvkedjan Aktiebolag|Golvkedjan Ekonomisk förening|FROT Invest AB
+Ottossons Golv Aktiebolag,5562383645,5,52,Bergström; Elin Charlotte,2,0,ECB Invest AB|Ottossons Golv Aktiebolag
+Takbyrån i Alingsås AB,5565651485,4,45,Udén; Tobias,8,21,Takbyrån i Alingsås AB|Fastighets AB Kristina 4|AB Färgenvik|Stigbygeln 1 AB|Antenvik AB|Karsten 13 AB|Tolica AB|U&E Förvaltning AB
+Kanozi Arkitekter AB,5564740024,5,52,Brandrup-Wognsen; Eva Helene C,6,12,Kanozi Arkitekter AB|Kanozi Inredning & Design AB|Kanozi Sverige AB|Izonak AB|HBW konsultation AB|Kanozi Holding AB
+Kanozi Arkitekter AB,5564740024,5,52,Jonsson; Lisa Margaretha,5,6,Kanozi Arkitekter AB|Kanozi Sverige AB|Izonak AB|Business story F33 AB|Kanozi Holding AB
+BRAMARK och VA i Göteborg AB,5564972585,2,50,Grimslätt; Carl-Johan Claes,5,3,BRAMARK och VA i Göteborg AB|CJB MoVA AB|Von Utfall projektering AB|Projekttjänst i Göteborg Aktiebolag|CJG Fastigheter AB
+Aktiebolaget Sätila Bygg,5560781345,4,51,Åkesson; Hans Rickard,6,2,Aktiebolaget Sätila Bygg|Lygnern AB|Förvaltning & Entreprenad i Sätila AB|Sätila-Hede 6:2 AB|Sätila Bygg Fastighets AB|Mark & Exploatering i Sätila AB
+Aktiebolaget Sätila Bygg,5560781345,4,51,Åkesson; Sarah Anna Sofia,5,0,Aktiebolaget Sätila Bygg|Lygnern AB|Sätila-Hede 6:2 AB|Förvaltning & Entreprenad i Sätila AB|Mark & Exploatering i Sätila AB
+Magnus Johansson & Son Måleri i Borås AB,5565732905,3,48,Törnblad; Carl Joakim,5,2,Åkermyntan AB|Magnus Johansson & Son Måleri i Borås AB|Hovaliden AB|Magnus Johansson & Son Måleri i Varberg AB|Lockryd Padel AB
+Hova Rörledningsaffär Aktiebolag,5561681882,4,55,Danielsson; Anna Ingeborg,3,6,Sveriges Bad & Värmebutiker Aktiebolag|Ekonomiska föreningen för Sveriges                Bad & Värmebutiker|Hova Rörledningsaffär Aktiebolag
+Sjömarkens Isolering Aktiebolag,5562381839,5,56,Håkansson; Lars Magnus,9,9,Sjömarkens Isolering Aktiebolag|Warmfiber Isolering AB|Sjömarkens Förvaltning AB|modedeviesain AB|Sjömarkens Isolering i Stockholm AB|Optimus Corpus AB|Twizzle AB|Semmlas AB|Sjömarkensgruppen AB
+Sjömarkens Isolering Aktiebolag,5562381839,5,56,Riedel; Bror Nicklas,5,4,Sjömarkens Isolering Aktiebolag|Warmfiber Isolering AB|Sjömarkens Förvaltning AB|Sjömarkens Isolering i Stockholm AB|Sjömarkensgruppen AB
+L.J. Mark & Anläggningar Aktiebolag,5562912856,2,51,Liljegren; Annika Therése,2,1,M3A Konsult i Göteborg AB|L.J. Mark & Anläggningar Aktiebolag
+Projektlaget Bygg i Lidköping AB,5568542897,2,48,Lundström; Bernt Gunnar,3,3,Läcköskär Properties AB|Läcköskär Holding AB|Projektlaget Bygg i Lidköping AB
+Svenska Inredningsfabrikanters Försäljnings       Aktiebolag,5563190239,4,43,Låstbom; Johan Henrik,4,2,Svenska Inredningsfabrikanters Försäljnings       Aktiebolag|LWA & Partners AB|Hem till Bengt AB|B Låstbom Holding AB
+Bröderna Bräder Bygg AB,5564922911,2,58,Wetterlundh; Mats Ove,3,1,Bröderna Bräder Bygg AB|Hus 1:23 i Lindome Kommanditbolag|Gundal Fastighets AB
+PlusEight System Aktiebolag,5565848636,4,55,Gränsfelt; Eric Magnus,6,10,PlusEight System Aktiebolag|PlusEight Engineering Aktiebolag|Pluseight Technology Aktiebolag|Borderfield AB|Pluseight Group Aktiebolag|PlusEight International AB
+Glubonos AB,5562986728,5,56,Brunberg; Kenneth Mikael,9,19,Glubonos AB|Brunberg Entreprenad AB|Active i Trollhättan AB|MIKAEL BRUNBERG HOLDING AB|Brunberg Fastigheter AB|Heimer 72 AB|Torsred 3 ekonomisk förening|Bostadsrättsföreningen Heimer 7|Heimer 7 ekonomisk förening
+Bröderna Perssons Rör Aktiebolag,5560752619,3,49,Persson; Patrik Bo Gunnar,3,0,Bröderna Perssons Rör Aktiebolag|Bröderna Perssons Rör & Försäljnings Aktiebolag|Bröderna Perssons Rör & Entreprenad Aktiebolag
+Spännbalkkonsult SBK AB,5562339712,3,51,Sandkvist; Carl Oscar,1,2,Spännbalkkonsult SBK AB
+VVS Teknik Ventilation i Krokslätt AB,5566370499,2,46,Brandenborg Lundgren; Johan Niklas,3,3,Brandenborg Varberg AB|VVS Teknik Ventilation i Krokslätt AB|Lundgrens Luftbehandling AB
+Raska Ansvarsfulla Montörers Elinstallationer i   Angered AB,5564653086,3,56,Schön; Dan Mikael,2,2,Raska Ansvarsfulla Montörers Elinstallationer i   Angered AB|Raska Ansvarsfulla Montörers Elinstallationer     i Angered Holding AB
+Raska Ansvarsfulla Montörers Elinstallationer i   Angered AB,5564653086,3,56,Adelbjer; Frans Johan,2,2,Raska Ansvarsfulla Montörers Elinstallationer i   Angered AB|Raska Ansvarsfulla Montörers Elinstallationer     i Angered Holding AB
+Byggfram Entreprenad AB,5566342761,2,52,Östlund; Stefan Erik,8,3,Byggfram Entreprenad AB|Byggfram Uthyrning AB|Byggfram Högsbo 16:17 AB|Byggfram Fastighets AB|Byggfram Group AB|Byggfram i Göteborg AB|Byggfram Service AB|Byggfram Konsult AB
+Aktiebolaget Fogspecialisten,5560804634,3,58,Zackrisson; Mikael,2,2,Mikael Zackrisson Holding AB|Aktiebolaget Fogspecialisten
+Bertil Johanssons i Mellerud Byggnads Aktiebolag,5562900562,4,43,Johansson; Stig Ove,2,0,Bertil Johanssons i Mellerud Byggnads Aktiebolag|Johansson Bygg i Mellerud Aktiebolag
+Kynningsrud Bygg AB,5591654222,5,48,Ekman; Henrik Ingemar,4,23,Kynningsrud Bygg AB|Skarsjövallen AB|Rannebergs småbåtshamn ek. för.|Ranneberg Invest AB
+Falks Markentreprenad AB,5566787577,4,54,Larsson; Tommy Kenneth,4,1,Falks Markentreprenad AB|Tumbergs Grus AB|Åleden Industrifastigheter AB|Investicum AB
+Husbyggen Väster AB,5565525150,3,63,Bergermo; Arne Richard,1,3,Husbyggen Väster AB
+Canmera Comfort AB,5565124731,4,53,Gustavsson; Bo Anders,6,11,Canmera Comfort AB|Sävedalens Värme & Kylservice AB|Nimpos Solutions AB|Thermodynamik 1 AB|MaxProof Scandinavia AB|Canmera Inomhus Climate AB
+Installationsgruppen Bohuslän AB,5565830410,3,47,Karlsson; Anders Erik Valter,5,1,Installationsgruppen Bohuslän AB|J A Karlsson invest AB|Anders Karlsson Invest AB|Effektiv Vvs Norden AB|Frigren invest AB
+Engman Tak AB,5560794199,3,47,Hallner; Lars Fredrik,6,12,Engman Tak AB|Kork by Scandinavia AB|Fastighetsfokus Nr 3 AB|Sämsjövik AB|Högsbo Fastighetsutveckling AB|Ragnar Thorgren Holding AB
+Utetjänst i Kungsbacka Aktiebolag,5564540739,3,51,Leman; Jan Jesper,2,4,LAK Förvaltning AB|Utetjänst i Kungsbacka Aktiebolag
+Sector Alarm Service AB,5566021423,3,46,Deybarden; Hans Martin,5,28,Sector Alarm AB|Sector Alarm Service AB|Sector Alarm Försäljnings AB|SA Bevakning AB|Sector Alarm Europe AB
+Betonmast Anläggning AB,5591896146,3,49,Andreasson; Jens Robert,3,2,Bostadsrättsföreningen Bellman Elva|Cachimbo Engineering AB|Betonmast Anläggning AB
+S K Licenssvets Frölunda Aktiebolag,5563508323,2,62,Arro Suopanki; Christian Jarmo,1,1,S K Licenssvets Frölunda Aktiebolag
+Betongbyggen Jonas Svensson Aktiebolag,5562634021,4,37,Svensson; Lars Jonas,7,12,Betongbyggen Jonas Svensson Aktiebolag|Spackelbyggen i Lindome AB|Fastighets AB Lindome 2:46|Bostadsrättsföreningen Svanen 9 i Kungsbacka      kommun|Fastighetsbolaget Betongbyggen Jonas Svensson AB|BK Rosa AB
+Oscarssons Mark & Entreprenad i Mellerud AB,5564145190,2,31,Nielsen; Steen Christian,7,0,Oscarssons Mark & Entreprenad i Mellerud AB|Brålanda Frändefors Fiber Ekonomisk förening|Nielsen-Oscarssons Fastigheter AB|CN:s MarkisService|Valbergs VA Ekonomiska förening|C.Nielsen Entreprenad AB|Nielsen Oscarssons Fastigheter 2 AB
+Byggnadsfirman Johansson & Ljunggren Aktiebolag,5561776716,3,47,Johansson; Gösta Örjan Ivar,5,1,Byggnadsfirman Johansson & Ljunggren Aktiebolag|Kommanditbolaget Fastighetsbolaget 31:an|Fiber i Ullasjö ekonomisk förening|AL Kolarp AB|GABACK AB
+Göteborgs Väg- och Anläggningsbyrå AB,5561561795,2,48,Liljegren; Thomas Lars Erik,2,4,Lars Liljegren Invest AB|Göteborgs Väg- och Anläggningsbyrå AB
+Annebergs Bygg och Anläggning AB,5566269675,3,54,Karlsson; Jonny Hans Olav,3,2,Annebergs Bygg och Anläggning AB|Cap Ferrat Holding AB|La Bocca Kungsbacka AB
+Infra Action Sweden AB,5569958407,3,48,Trollius; Magnus Åke,6,26,Infra Action Sweden AB|Infra Action Sth AB|Infra Action Gbg AB|Infra Action Legal AB|Infra Action BD AB|Bostadsrättsföreningen Erik Dahlbergsgatan 50
+Kjellners Rör AB,5568947500,3,49,Kjellner; Karl Emil David,3,8,Kjellner Gruppen AB|Kjellners Industrifastigheter AB|Kjellners Rör AB
+ELCENTER JK I BORÅS Aktiebolag,5564434479,3,54,Axelsson; Jonas Jörgen,1,0,ELCENTER JK I BORÅS Aktiebolag
+Crabat AB,5567762645,3,47,Bergström; Christer Eddy,4,3,Crabat AB|Crabat Bygg & Projektledning AB|Crabat Projektering AB|Pened ÖGM AB
+Jan Håkansson Byggplanering Aktiebolag,5563197531,5,53,Håkansson; Anders Erik,18,12,Jan Håkansson Byggplanering Aktiebolag|Fastighetsbolaget Jolen AB|Saltkällan Exploatering AB|Eklanda Produktions och Fastighetsförvaltning AB|ELMHÅ Byggnads Aktiebolag|Bo Aktivt Särö AB|Ekonomisk förening BonTop Mölnlycke 1|Bostadsrättsföreningen Idrotten i Mölnlycke|Bo Aktivt Sverige Holding AB|Bostadsrättsföreningen Bo Aktivt Tyresö|Åbrinken Holding i Arboga AB|Ekonomisk förening Bo Aktivt Tyresö 1|Bostadsrättsföreningen Strömmen 1|Tärnehill Invest AB|Ekonomisk förening Idrotten i Mölnlycke 1|Bo Aktivt Tyresö AB|Idrotten Mölnlycke AB|BonTop Mölnlycke 2 AB
+Jan Håkansson Byggplanering Aktiebolag,5563197531,5,53,Håkansson; Erik Jonas,7,59,APS Drift och Underhåll AB|Jan Håkansson Byggplanering Aktiebolag|Maxemal Fastigheter Varla AB|Maxemal Fastigheter Kolla 1 AB|ECOTRIM AB|Maxemal Fastigheter AB|Maxemal Fastigheter Kolla 2 AB
+Aktiebolaget Borås Rörinstallationer,5560325507,4,52,Persson; Tomas Göran,10,16,Aktiebolaget Borås Rörinstallationer|APT Invest AB|Arlagatans Bostads AB|Butschgatans Bostads AB|Ås Härads Holding AB|ABRI Förvaltnings Aktiebolag|MSTEI Invest AB|MTF VVS Holding AB|OFA Holding i Borås AB|Steiland Förvaltning AB
+Säve Byggnads AB,5566554944,5,50,Ivarsson; Tommy Michael,3,3,Säve Byggservice AB|Säve Byggnads AB|Säve Byggnads Holding AB
+Tofta Plåt & Ventilation Aktiebolag,5562446368,3,47,Grönskog; Dan Kristian,3,5,Fam Grönskog AB|Tofta Plåt & Ventilation Aktiebolag|LG Contracting AB
+Golvet Göteborg Aktiebolag,5561792630,4,65,Lyrbring; Anders Christer,5,8,Golvet Göteborg Aktiebolag|Oves Golv i Falkenberg AB|Golvet Varberg AB|Golvet TVU AB|Säljmax Individ & Resultatutveckling i Göteborg AB
+Svagströmsmontage i Mölndal Aktiebolag,5561245050,3,54,Nordin; Kent Allan Mauritz,6,10,Svagströmsmontage i Mölndal Aktiebolag|Smigab; Svagströmsmontage i Göteborg AB|Smimab Tele AB|Tuppen Förvaltning AB|Svets; El; Mät; Kalibrering; Utrustning och       Verifiering i Göteborg AB|Kronander Täkten AB
+Edvardssons Måleri i Västra Frölunda Aktiebolag,5566224779,4,51,Lindqvist; Leif Harry,8,5,E Edvardsson Bygg AB|Edvardssons Måleri i Västra Frölunda Aktiebolag|E Edvardsson Byggresurs AB|Edvardssons Måleri i Kungsbacka AB|Edvardsson Gruppen Elektriska AB|Edvardsson Riv och Sanering AB|Edvardssonbolagen AB|LH Lindqvist Holding AB
+C.Lidberg Bygg AB,5566159397,3,49,Johansson; Björn Inge,6,3,C.Lidberg Bygg AB|TW:s Byggnadsplåtslageri Aktiebolag|Lidberg Maskin AB|Jack Midhage Industri och Förvaltnings            Aktiebolag|Edetbo Förvaltning AB|Lucror AB
+Markera Mark Göteborg AB,5567297832,4,44,Arvidsson; Malin Maria,6,7,Markera Mark Göteborg AB|Markera Projektledning Göteborg AB|Markera Business AB|Markera AB|Malin Arvidsson Yoga AB|Markera Holding Göteborg AB
+TAXUS AB,5567089601,2,54,Karlsson; Björn Lars-Henrik,12,14,Två Grävare AB|TAXUS AB|Labelle & Karlsson AB|Evon AB|Bygghjulet AB|Bryggan i Stenungsund AB|Alebacken Invest AB|Ekonomihjulet AB|Hamnen i Stenungsund AB|Uteby Invest AB|Valla Tjörn Consulting AB|Höviksbostäder Aktiebolag
+BGS Betong AB,5569061012,2,35,Fors; Carl Rickard Tobias,5,2,BGS Betong AB|T. Fors Fastighets AB|Fors Holding Aktiebolag|BGS Betongentreprenad AB|CRT Holding AB
+Kållereds Bygg Aktiebolag,5564130846,2,55,Ehrenborg; Patrik Tobias,10,6,Kållereds Bygg Aktiebolag|Östergärde industriväg 81-91 förvaltning AB|Kållereds Byggservice AB|Aktiebolaget Patrik Ehrenborg|GELOT 1:37 Förvaltning AB|GELOT 2:63 Förvaltning AB|P.E. Förvaltning AB|Patrik Ehrenborg Investment 2 AB|Patrik Ehrenborg Investment AB|PE Komplimentera AB
+Berge Consulting AB,5567323059,2,45,Berge; Sara Elisabet,5,3,Berge Consulting AB|Fore Development AB|HUGO Delivery AB|Berge Ventures AB|Berge Group AB
+Berge Consulting AB,5567323059,2,45,Berge; Carl Henrik,5,7,Berge Consulting AB|Fore Development AB|HUGO Delivery AB|Berge Ventures AB|Berge Group AB
+Alf Ericson i Göteborg Elektriska Aktiebolag,5564732518,5,45,Lindblom; Lars Gunnar,1,1,Alf Ericson i Göteborg Elektriska Aktiebolag
+KWA Isolerteknik AB,5569769572,4,50,Wikstrand; Mats Christer,5,4,KWA Isolerteknik AB|JT Isolering Aktiebolag|Kupriten Fastigheter AB|Kupriten Fastigheter Holding AB|VAKAB Invest Holding AB
+RES Renewable Norden AB,5566160684,3,52,Afzelius; Matilda Eva Johanna,17,22,RES Renewable Norden AB|Sirocco Wind Holding AB|Jädraås Vindkraft AB|Hällåsen Kraft AB|IDMOS Consulting AB|Stora Uvberget Vind AB|Skyttmon Borgvattnet Vind AB|Vargträsk Vindkraft AB|Granliden Vindkraft AB|Vindkraft i Norrhälsinge AB|Vinliden Vindkraft AB|Degerkölen Vindkraft AB|Trysslinge Vindkraft AB|Gubbaberget Vindkraft AB|Hornmyran Vindkraft AB|Storåsen Vindkraft AB|Vindkraft i Fjällberg AB
+Pollex Aktiebolag,5563364107,7,51,Wingqvist; Tobias Lennart,3,6,Pollex Aktiebolag|Pollex PPR AB|Novex Holding AB
+Pollex Aktiebolag,5563364107,7,51,Höglund; Paul Mattias,4,10,Pollex Aktiebolag|Aqua Robur Technologies AB|Novex Holding AB|Pollex PPR AB
+NR kyl AB,5568937402,3,43,Ringström; Sten Leif Daniel,3,8,NR kyl AB|Bueno Taco AB|Refrigeration & Piping Technology Sweden AB
+Ventab Styr Aktiebolag,5564586872,3,61,Persson; Lars Martin,3,1,Solvrån Invest AB|Anders & Christian El AB|Ventab Styr Aktiebolag
+PCN Fastighetsservice AB,5566005129,3,54,Nyström; Per Christer,4,6,PCN Fastighetsservice AB|K-Plåt Co AB|Fastighet Kungälv Målaren 10 AB|Nyström Berglund Holding AB
+Elinväst Henrik Nilsson AB,5560749706,2,72,Sjölund; Lennart Sigvard Olof,17,37,New Nordic Healthbrands AB|Parkallen Invest AB|Elinväst Henrik Nilsson AB|Kinna El & Tele Aktiebolag|Östanbäck Timmerhus AB|Elgruppen Väst AB|Fässbergs Elektriska Aktiebolag|Quickcool AB|Utmaningarnas Hus i Malmö AB|Godiva AB|Innovationskonsult Lundholm Aktiebolag|Teamification AB|ErySave Aktiebolag|Nomvula AB|Parkallen Group AB|Husbåtskompaniet i Junsele AB|Argmed Kommanditbolag
+Teknik och Entreprenad Gruppen Norstorp AB,5590519541,2,59,Areschoug; Karl Fredrik,3,3,Bostadsrättsföreningen Fröland 3:30|Norstorp Aktiebolag|Teknik och Entreprenad Gruppen Norstorp AB
+Ventilationsgruppen Bohuslän AB,5568732985,3,54,Aldhammar; Lars Pontus,1,2,Ventilationsgruppen Bohuslän AB
+Två Grävare AB,5565454088,4,58,Persson; Lars Fredrik,2,2,Två Grävare AB|Ducer Education
+Ecovinn AB,5590911581,3,53,Dehlfors; Daniel Patrik,2,0,VinnTer AB|Ecovinn AB
+Energiförbättring Väst Aktiebolag,5564262805,3,48,Florell; Louise Maria Elisabet,1,2,Energiförbättring Väst Aktiebolag
+Grävtjänst i Götene AB,5565653234,4,50,Bertilsson; Robert Mikael,6,3,Grävtjänst i Götene AB|TFM Fastighet AB|GS Fastighet & Maskin i Götene AB|Mickebert Handelsbolag|GS i Götene AB|Svensk Bygg- och Markteknik AB
+Olof Leander Måleri AB,5565072435,2,54,Karlsson; Thomas Mathias,3,0,Olof Leander Måleri AB|WH Installation AB|Ljungbloms Elektriska AB
+Berg och Grundsäkring L Svensson Aktiebolag,5565008249,2,40,Dahlholm Svensson; Leif Martin,10,9,Berg och Grundsäkring L Svensson Aktiebolag|Martin Dahlholm Fastighets Kommanditbolag|SVERO Kommanditbolag|Berg & Grundsäkring Dahlholm Bygg AB|Dahlholm Maskiner & Fordon AB|Persson och Dahlholm Fastigheter AB|West Coast Commercial Sverige AB|BGS Dahlholm Förvaltning AB|MDG Sweden AB|Martin S Dahlholm Holding AB
+Västra Götalands Bygg och Tak AB,5569242000,3,41,Egfors; Karl Josef,5,6,Västra Götalands Bygg och Tak AB|Speranta AB|Egfors Byggteam AB|Betaniahuset AB|Jag och mitt hus AB
+DHI Sverige AB,5565509600,7,47,Gustafsson; Lars-Göran Christer,1,3,DHI Sverige AB
+DHI Sverige AB,5565509600,7,47,Mårtensson; Erik Peter,1,2,DHI Sverige AB
+P & B Golv Aktiebolag,5561427385,3,49,Johansson; Anders Krister,3,9,P & B Golv Aktiebolag|P & B Munkedal AB|Krister Johansson Golv Aktiebolag
+P & B Golv Aktiebolag,5561427385,3,49,Johansson; Anders Mikael,3,4,P & B Golv Aktiebolag|P & B Munkedal AB|Krister Johansson Golv Aktiebolag
+HJ Bygg & Entreprenad AB,5561306241,4,50,Viklund; Hans Jörgen,4,1,HJ Bygg & Entreprenad AB|HJ Fastigheter i Viskafors AB|HJ Schakt & Transport AB|HJ Förvaltning i Viskafors AB
+UTK Activ El Aktiebolag,5565263521,4,56,Sjöholm; Benny Leonard,9,4,Trafiksystem Väst AB|Electroteambolagen i Västsverige AB|UTK Activ El Aktiebolag|Electroteam i Västsverige AB|KD EL Service AB|BL El & Design AB|Ostkustens Elektriska Aktiebolag|Ackevis Miljö El AB|Electroteam i Stockholm AB
+Electroteam i Västsverige AB,5560884891,4,56,Sjöholm; Benny Leonard,9,4,Trafiksystem Väst AB|Electroteambolagen i Västsverige AB|UTK Activ El Aktiebolag|Electroteam i Västsverige AB|KD EL Service AB|BL El & Design AB|Ostkustens Elektriska Aktiebolag|Ackevis Miljö El AB|Electroteam i Stockholm AB
+Sandbäckens Sprinkler Väst AB,5590311311,6,50,Gustavsson; Nils Johan Rickard,1,1,Sandbäckens Sprinkler Väst AB
+RIVAB i Göteborg AB,5562458769,3,57,Segerlund; John Christian,15,18,Lotus Maskin & Transport AB|Rivners Aktiebolag|AK Schakt o Entreprenad AB|RIVAB i Göteborg AB|Rivners Håltagning AB|Rivners Sanering AB|SödermalmsGruppen AB|LODAB Demolering AB|Restaurang Alba i Mariefred AB|Fastighets Aktiebolaget Snatteranden|Fastighetsbolaget Akusaa AB|Elghornet AB|LotusInfra AB|Segerlund Fastighetsbolag AB|MAHB Holding AB
+Glose Murning & Puts Aktiebolag,5565113585,3,54,Larsson; Jan-Erik Georg,2,2,Glose Murning & Puts Aktiebolag|GLOSE BYGGTJÄNST - J-E LARSSON
+Nordisol Akustik i Göteborg AB,5563579274,3,50,Olsson; Joakim Christer,3,2,Nordakbolagen AB|Attract & Retain AB|Nordisol Akustik i Göteborg AB
+Team Håltagarna TB AB,5566214945,4,48,Johansson; Karl Sören Mikael,5,4,Team Håltagarna TB AB|Bostadsrättsföreningen Lunnevi nr 2|Team Betongsågning TBTS AB|Jokle Concrete AB|Camisöto AB
+Blue Wall Construction Väst AB,5568635923,2,42,Carlsson; Cay Mattias,24,28,RSQ Invest AB|Blue Wall Construction AB|Blue Wall Construction Väst AB|Season Jönköping AB|Citagon AB|Proficore AB|Denim & Friends AB|Graniten 6 i Jönköping AB|Denim & Friends 4 AB|Denim & Friends 3 AB|Lampan i Nässjö AB|Season Retail AB|Stora Roten i Gränna AB|Denim & Friends 2 AB|Denim & Friends 1 AB|Stigamo Exploaterings AB|Knopparp Gård AB|Klasen i Jönköping AB|Fastighetsbolaget Ritaren 2 i Jönköping AB|CB 4 i Jönköping AB|Ravingatans Fastighets Aktiebolag|Stigamo Invest AB|Proficore Fastigheter AB|Premium Profil i Jönköping AB
+Viametrics AB,5561134064,3,56,Andersson; Karl Åke Niklas,4,5,Viametrics AB|Modus Vivendi AB|Viametrics Group AB|Neroupp AB
+Westman El i Göteborg AB,5563005734,2,58,Westman; Bo Göran Mikael,3,3,M Westman Consulting AB|WEMA Säkerhetspartner i Väst AB|Westman El i Göteborg AB
+Lokalbyggen i Göteborg AB,5564342060,3,58,Alm; Mats Erik Lennart,2,0,Lokalbyggen i Göteborg AB|LiljeAlm Invest i Göteborg AB
+Lokalbyggen i Göteborg AB,5564342060,3,58,Liljefält; Tony Ingemar,2,1,Lokalbyggen i Göteborg AB|LiljeAlm Invest i Göteborg AB
+Dayspring Göteborg AB,5567328447,3,55,Kåwert; John Fredrik,12,10,Dayspring Göteborg AB|Dayspring Malmö AB|Dayspring AB|Fastighets AB Temperaturgatan 88:5|RP Stockholm AB|AB Brämaregården-Herkulesgatan 40|Kåwert Fastigheter AB|Kommanditbolag BoNära Munkebäck|BoNära Lyftet AB|Dayspring Holding AB|BoNära AB|Fastighetsbranschens Unga Nätverk                 Ekonomisk förening
+Dayspring Göteborg AB,5567328447,3,55,Olsson; Per Daniel,1,0,Dayspring Göteborg AB
+Göteborgs Egnahems Aktiebolag,5560953829,10,55,Windt-Wallenberg; Erik Stigbjörn,2,0,Framtiden Byggutveckling AB|Göteborgs Egnahems Aktiebolag
+K J Byggnads i Håby Aktiebolag,5563639227,2,61,Johansson; Claes-Anders Bertil,3,4,Claes-Anders Johansson Invest AB|K J Byggnads i Håby Aktiebolag|Bra lokaler i Bohuslän AB
+Moberg Fog Holding AB,5568423163,4,46,Moberg; Joakim Niklas,3,6,Svensk Repservice AB|Moberg Fog Holding AB|Moberg Fog & Brand AB
+K21 Entreprenad Stenungsund AB,5591222459,5,54,Fredriksson; Thomas Peter,9,11,K 21 Entreprenad AB|K 21 Service AB|K21 Entreprenad ROT AB|K21 Entreprenad Stenungsund AB|Fastighets AB Kusen|Consulting Construction Company Fredriksson AB|Humanitera AB|HKW Fastighets AB|Marie Fredriksson Development AB
+Pelle Perssons Måleri i Lidköping Aktiebolag,5564532090,3,48,Persson; Per-Olov Roland,2,7,Pelle Perssons Måleri i Lidköping Aktiebolag|Per-Olov P. Fastigheter AB
+Sandbäckens Rör i Uddevalla AB,5569482648,4,63,Hagberg; Carl Jakob,2,0,Haja Förvaltning AB|Sandbäckens Rör i Uddevalla AB
+STIBA Aktiebolag,5564243912,3,54,Österlund; Leif Joakim,5,3,STIBA Aktiebolag|Vima byggkonstruktion AB|Stiba besiktning och byggledning AB|Stiba Fastigheter AB|Stiba Förvaltnings AB
+Zynka BIM AB,5569602864,2,64,Bengtsson; Urban Petter,4,2,Zynka BIM AB|Zynka Digital Buildings AB|Zynka Group AB|Zynka BIM 2 AB
+RK Elteknik AB,5567848345,5,55,Lindström; Rickard Martin,14,4,RK Elteknik AB|BOHUS PMC Aktiebolag|RK Långemyrsvägen 4 Fastighet AB|Roger Lindström Konsult AB|RK Allhemsvägen 26 Fastighet AB|Uddevalla Hyresfastighet AB|RK Väst Holding AB|Rickard Lindström|Dalsland Hyresfastighet AB|Petrolium AB|Hästhagen 5 AB|RK Kultehagsvägen 3 AB|RK Group AB|RK Invent Väst AB
+QSEC Sverige AB,5565707675,5,68,Lebeck; Lars Christer,5,6,QSEC Sverige AB|QSEC Holding AB|QSEC AB|QSEC Optimera AB|Bostadsrättsföreningen Detio
+QSEC Sverige AB,5565707675,5,68,Kaber; Hannes Gustav,2,7,Wallry AB|QSEC Sverige AB
+Peek Brunnsborrning AB,5566792163,3,55,Eklund; Jonas Emrik,7,5,Peek Brunnsborrning AB|Design at work Scandinavia AB|Borrföretagen i Sverige ekonomisk förening|Borrföretagen Service i Sverige AB|Svenskt Geoenergicentrum AB|Tollered 1:528 Fastighets AB|PEGJ Holding AB
+Thermo-Fasad Aktiebolag,5561872853,3,42,Lundberg; Per Johan,4,0,ÅJ Måleri AB|Thermo-Fasad Aktiebolag|Kent Ohsol Målab Aktiebolag|M.M. Måleri Aktiebolag
+K-B Rör Aktiebolag,5561110759,3,46,Karlsson; Daniel Tobias,3,3,Intressentföreningen Reko Comfort Ek. för.|KB Rör Holding AB|K-B Rör Aktiebolag
+Avarn Låsteknik i Göteborg AB,5563552156,3,49,Liljeroos; Peter Piotr,7,12,Avarn Security Systems AB|Avarn Lås-Aktuellt AB|Avarn Låsteknik i Göteborg AB|Avarn Alviks Lås AB|Avarn Teknik Öst AB|Säkra Hem i Blekinge AB|BrainPower Invest AB
+Råda Elektriska Aktiebolag,5561259283,4,44,Strömberg; Sven Rikard,1,0,Råda Elektriska Aktiebolag
+Christian Blomkvist Bygg och Snickeri AB,5566139142,2,48,Blomqvist; Christian Jörgen Daniel,6,10,Christian Blomkvist Bygg och Snickeri AB|Torsborg Fastigheter AB|Sävare Måleri AB|Källstorps vatten; avlopp och fiber               ekonomisk förening|SAWIB Invest AB|Coactum gruppen AB
+Betong Masters i Borås AB,5566459391,2,53,Ström; Per Daniel,4,8,Betong Masters i Borås AB|S & K i Borås AB|S & K Kantelementet 2 AB|DK2 Sverige AB
+Mattkillarna i Göteborg Aktiebolag,5562427350,4,57,Österman; Ulf Emil,2,2,E-M Österman AB|Mattkillarna i Göteborg Aktiebolag
+Protek Projektstyrning i Göteborg AB,5564957297,3,59,Nivala; Anna Cecilia,4,0,Protek Projektstyrning i Göteborg AB|pinpoint projektledning AB|Konsult Arenan i Göteborg AB|Nivala Heritage AB
+Byggnads Aktiebolaget Olof Flink,5561655480,3,56,Flink; Lars Henrik,2,5,Byggnads Aktiebolaget Olof Flink|Knilf AB
+CA consultadministration AB,5562578020,4,50,Dåverhög; Bengt Daniel,3,0,Sophantering Björnbärsvägen 42-64 i Floda         Ekonomisk förening|CA consultadministration AB|CA consult intressenter AB
+Järngrinden Projektutveckling AB,5566559281,5,50,Ivarsson; Lars Patrik,52,184,Auto 7H Centrum AB|Tapetterminalen i Borås AB|Järngrinden AB|Järngrinden Projektutveckling AB|Pallas 1 Fastighets AB|GenJärn Borås Fastighet AB|Fastighets AB Myrten 2|Nya Särö Fastighets AB|Auto 7H Finans AB|Givestment Holding i Borås AB|W:m Rudells Group AB|Hästhoven i Borås AB|CFJ Kontraktsbolag AB|ABCWB M 1-10 Fastighets AB|Breared Projektutveckling 1 AB|GenJärn Borås Fastighet 2 AB|Depå Viared i Borås AB|Järngrinden Vind 1 AB|Mölndalstappen AB|Projekthus 10 i Borås AB|JärnSpiran Fastighetsutveckling AB|Tegelbrukstäppet AB|Projekthus Myntkatten i Borås AB|Braconierska villan AB|Solidhus i Kungsbacka AB|Kungsbacka Södra Stad Holding AB|J.G Fastighets AB|JärnSpiran Holding AB|WBME Holding i Varberg AB|AB Ulricehamn Australien 3|Grönskan Parkerings AB|Järngrinden Fastighets AB|Mark & Exploatering i Borås AB|Järngrinden Markutveckling Holding AB|Järngrinden Projektutveckling Holding AB|NewCo Breared AB|Bergdalsterrassen i Borås AB|Särö Flaggskepp AB|Järngrinden Fastighetsutveckling Holding AB|Rundgången Fastighet AB|InkInvest Aktiebolag|Pallastornet Fastighets AB|Halmstad Tegelbruk Handel AB|Projekthus 67 AB|Projekthus 55 AB|Marmor 4 i Varberg AB|Projekthus 69 AB|Järngrinden Projektutveckling Holding 2 AB|NewCo Bergdalen AB|Genjärn Borås Holding AB|Fristad Prästskog AB|Projekthus Funningen AB
+Järngrinden Projektutveckling AB,5566559281,5,50,Johannesson; Bent Tobias,12,6,Järngrinden AB|Järngrinden Projektutveckling AB|GenJärn Borås Fastighet 2 AB|Mölndalstappen AB|JärnSpiran Fastighetsutveckling AB|Tegelbrukstäppet AB|Järngrinden Fastighets AB|JärnSpiran Holding AB|Järngrinden Projektutveckling Holding 2 AB|Kopparåsen Invest AB|Grönskan Parkerings AB|Rundgången Fastighet AB
+Ytterby Maskintjänst Aktiebolag,5560465030,2,62,Tungebo; Jan Torsten,6,14,Ytterby Maskintjänst Aktiebolag|Tölö Bygg Aktiebolag|GSM Göteborgs Schakt & Maskin AB|Rollsbo Hyrmaskiner Kommanditbolag|Meryt konferens AB|Bostadsrättsföreningen Ekytter
+Skaftöhus AB,5565879110,3,46,Borg; Nils Peter,5,14,Skaftöhus AB|Stockeviks fiskehamnsförening u.p.a.|Marina Tuvesvik Ekonomisk förening|Fastighetsbolaget Lavön AB|Hamnanläggning Tuvesvik Ekonomisk förening
+Nauthall AB,5565915716,3,63,Jakobsen Loft; Eigil,10,23,Tipp Fastighets AB|Terrester AB|Nauthall AB|KAP FARVEL Aktiebolag|Amhult 2 AB|Amhults Centrumparkering AB|Lysevägens Bostads AB|Alassio AB|Charlie Bostads AB|Loft Fastighet 2 AB
+Älmby Väst AB,5566357496,4,50,Nilverius; Ulf Anders,5,3,Älmby Väst AB|Nagguc AB|TPA Konsult & Marktjänst AB|R.G. Gustavsson Entreprenad AB|AN i Väst AB
+POGAB Plåt AB,5566879937,3,50,Mattsson; Per Mathias,8,12,Higab AB|POGAB Plåt AB|Gårda Byggnadsplåt Aktiebolag|Ale Tollered 1:517 Fastighets AB|POGAB Maskin AB|Älvängens Företagarförening Ekonomisk förening|Pogab Holding i Väst AB|Ale Holding AB
+POGAB Plåt AB,5566879937,3,50,Kloo; Jesper Mattias,5,4,POGAB Plåt AB|Gårda Byggnadsplåt Aktiebolag|POGAB Maskin AB|Kloo Byggnadsplåt AB|Pogab Holding i Väst AB
+Kimmos Måleri AB,5564995719,4,55,Komulainen; Maritta Kristina,4,8,Kimmos Måleri AB|Anbaric studio AB|Kimmos Holding AB|Individuellhälsa - din coach Maritta
+N.C.W. Plåt & Isolering Aktiebolag,5561395087,3,49,Carestam; Mats Johan,5,4,N.C.W. Plåt & Isolering Aktiebolag|Alelyckans Fastighets AB|MCA Invest AB|Idet Fastighets AB|Anmasc Fastigheter AB
+Ytterbygg Entreprenad AB,5568933401,2,50,Berntsson; Mats Christer,9,14,Ytterbygg Aktiebolag|Ytterbygg Entreprenad AB|Slottsbol Drift AB|Trollhättan Skonaren 2 AB|Göteborg Högsbo 4:3 AB|Fastighets AB Skissing|Ytterbygg Invest2 AB|Ytterbygg Invest AB|YB 1/VC 1 AB
+Densify AB,5569181745,4,47,Lorensson; Karl Christoffer,17,47,Densify AB|Donsö Strandfastighets AB|Densify Group AB|Densify Alfa AB|CLD Holding AB|Densify Vind AB|Densify Projektutveckling AB|Ekonomisk förening Råda Plaza|Stensjöberg AB|Densify Gamma AB|Ekonomisk förening Styrsö Plaza|Ekonomisk förening Hovås Bautasten|Densify Projekt AB|Ekonomisk förening Stensjö Plaza|Densify Beta AB|Ekonomisk förening Brottkärr Plaza|Bostadsrättsförening Bautastenen
+Värmekällan Väst AB,5565042438,2,48,Kallies; Michael,2,6,Värmekällan Väst AB|Energi och Värmepumpsmannen AB
+TRABEA Bygg AB,5590342795,3,53,Udd; Klas Martin,3,1,Ritaren Aktiebolag|TRABEA HOLDING AB|TRABEA Bygg AB
+Sandbäckens Rör i Göteborg AB,5569093619,4,54,Cullbrand; Mats Karl Göran,4,4,Sandbäcken Utveckling Aktiebolag|Sandbäckens Rör i Uddevalla AB|Sandbäckens Rör i Göteborg AB|CULLMA Förvaltning AB
+Klarins Rör i Göteborg AB,5568081797,2,66,Klarin; Kurt Ove,3,2,K KLARINS BYGG AB|Klarins Fastigheter AB|Klarins Rör i Göteborg AB
+Veako AB,5591185011,3,37,Rasila; Karl Henrik,4,0,Veako AB|Rasila byggkonsult AB|Veako Civil AB|Veako Holding AB
+Veako AB,5591185011,3,37,Johansson; Marcus David Mikael,4,1,Veako AB|MJ Väst AB|Veako Civil AB|Veako Holding AB
+Crabat Bygg & Projektledning AB,5569352809,3,47,Bergström; Christer Eddy,4,3,Crabat AB|Crabat Bygg & Projektledning AB|Crabat Projektering AB|Pened ÖGM AB
+SITAR Bygg AB,5569435745,3,37,Sitar; Cemil,2,3,Sitar Modul AB|SITAR Bygg AB
+SITAR Bygg AB,5569435745,3,37,Basdag; Abdullah,2,1,Sitar Modul AB|SITAR Bygg AB
+Rasch Direct AB,5567569966,5,48,Freyschuss; Carl Anders,3,12,Bröderna Rasch AB|Bevent Rasch AB|Rasch Direct AB
+Råberget Entreprenad AB,5566038294,2,53,Andersson; Sofia Pia,2,3,Maryds Höjd AB|Råberget Entreprenad AB
+Modernt Interiörmåleri i Partille AB,5565086641,2,67,Gidlöf; Karl Olof Roger,4,4,Modernt Interiörmåleri i Partille AB|Lindemark & Båvenby Måleritjänst AB|MediaTech i Mölndal Aktiebolag|Milves Holding AB
+ISAB Rörinfodring Väst AB,5591371090,3,61,Eriksson; Johannes Anton,1,1,ISAB Rörinfodring Väst AB
+Stylt-Trampoli Aktiebolag,5564212727,4,56,Johansen; Maria Elisabet,5,4,Stylt-Trampoli Aktiebolag|Fastighets AB Spelmansplatsen Nio|Stylt Intelligence AB|Stylt Electric Motion i Göteborg AB|Föreningen Ottelyckan; Instön; Ekonomisk förening.
+Svenska Teknikingenjörer Sting AB,5567181317,3,54,Säresand Sikström; Per Nils Otto,8,25,Gantry AB|Bro Underhåll & Service BUS AB|Svenska Teknikingenjörer Sting AB|Melloff Bygg AB|Olidan 6:1 AB|Trollhätteruckel AB|Olidan 5:19 AB|Strömmarn's Bryggeri AB
+Erséus Arkitekter AB,5566302583,3,53,Erséus; Peter Hans Erik,3,8,Erséus Arkitekter AB|Erséus Arkitekter Holding AB|Peter Erséus AB
+Erséus Arkitekter AB,5566302583,3,53,Scherman; Claes Fredric,2,1,Erséus Arkitekter AB|Erséus Arkitekter Holding AB
+Medins Ventilation Aktiebolag,5562038983,2,48,Andersson; Stig Fredrik,4,2,Medins Ventilation Aktiebolag|Medifast AB|Medivind AB|Anderssons Medivent AB
+Pentagón Byggnads AB,5590633979,3,34,Andreasson; Anders Kristoffer,2,6,Pentagón Byggnads AB|Pentagon i Göteborg Holding AB
+Rikstvåans Låsservice AB,5566886544,2,42,Andersson; Jan Lennart,5,9,Rikstvåans Låsservice AB|Rikstvåans Service Aktiebolag|BMA Invest AB|JLAN Invest AB|SLMA Invest AB
+SA Bevakning AB,5566483243,3,46,Deybarden; Hans Martin,5,28,Sector Alarm AB|Sector Alarm Service AB|Sector Alarm Försäljnings AB|SA Bevakning AB|Sector Alarm Europe AB
+UK Portservice AB,5565508339,2,46,Linder; André Liam,2,2,UK Portservice AB|TCAL AB
+Söderqvist Engineering Sweden AB,5563325785,5,50,Söderqvist; Carl Jesper Napoleon,1,3,Söderqvist Engineering Sweden AB
+Nossebro El-Service Aktiebolag,5563759132,5,49,Karlsson; Bo Christian,4,10,Nossebroortens energi ekonomisk förening|Nossebro El-Service Aktiebolag|Nossebro Energi Försäljnings Aktiebolag|Nossebro Energi Värme Aktiebolag
+Radar arkitektur & planering AB,5566706197,8,42,Götestam; Karl Oskar,4,4,Radar arkitektur & planering AB|Bostadsrättsföreningen Körsbäret 19-21|Helhetshus Arkitektstudio i Sverige AB|gruppen för urban landskapsorganisation AB
+UPS-teknik i Väst AB,5566363254,2,45,Vidal; Gunnar Henrik,6,5,UPS-teknik i Väst AB|Energiteknik i Kungälv AB|Vidals Fastigheter AB|Valitron AB|Vidal Holding AB|Vidacore AB
+UPS-teknik i Väst AB,5566363254,2,45,Vidal; Britt Emma Helena,5,4,UPS-teknik i Väst AB|Energiteknik i Kungälv AB|Vidals Fastigheter AB|Vidal Holding AB|Vidacore AB
+RÖRBÖJISAR I VÄST AB,5566701701,3,60,Gerke; Karl Dennis,4,0,RÖRBÖJISAR I VÄST AB|VVS Installationer Väst AB|SFDG Förvaltning AB|RÖRBÖJEN AB
+SHT Entreprenad Väst AB,5568465172,2,45,Juthage; Erik Mattias,5,0,SHT Entreprenad Väst AB|Specialhåltagning i Göteborg AB|Signalgatan 10B Fastighets AB|KOMMANDITBOLAGET BACKA-BERGÖ 27:26|Hålta Holding AB
+VANOVO AB,5590053079,3,38,Nerman; Kaj Mikael,3,0,VANOVO AB|Vanovo Öst AB|Vanovo Väst AB
+Lidans Byggservice Aktiebolag,5564729209,2,49,Johansson; Carl-Johan,1,1,Lidans Byggservice Aktiebolag
+development partner 09 AB,5567409858,6,40,Fjällglim; Mikael Tony,7,11,development partner 09 AB|FJÄLLGLIM & PARTNER AB|development partner 15 projekt AB|development partner 09 holding AB|Scius development partner AB|Haga Storby i Mölnlycke AB|development partner 17 projekt AB
+development partner 09 AB,5567409858,6,40,Jonsson; Marcus Karl Oskar,4,3,development partner 09 AB|development partner copartner 1 AB|development partner intressenter 1 AB|Bostadsrättsföreningen Torp 35:2
+Tingstad Måleri AB,5568972227,3,41,Fasnacht; Daniel Fredrik,6,7,Tingstad Måleri AB|Tingstad Frakt AB|Elteknik i Ale AB|C F Entreprenad & Konsult AB|Tingtown Förvaltning AB|Tingtown Holding AB
+Svensk Bygglogistik AB,5565425104,5,50,Wallin; Urban Mikael,3,16,Logistikpatrullen AB|Svensk Bygglogistik AB|Y.N.W.A i Göteborg AB
+Aktiebolaget Gunnar Svensson Textil &             Möbelinredning,5564836681,3,50,Svensson; Nils Fredrik,1,0,Aktiebolaget Gunnar Svensson Textil &             Möbelinredning
+Kyl-Effekt AB,5566698451,3,47,Nero; Jonas,2,3,Röreffekt i Göteborg AB|Kyl-Effekt AB
+Paralarm AB,5566129622,4,46,Johansson; Jonas Harald Tommy,4,2,Paralarm AB|Tångabergs Rör AB|Mejsek AB|Bostadsrättsföreningen Eklanda Gård
+Knippla Rörkompani Aktiebolag,5563427730,4,60,Ejnarsson; Jan Robert,3,1,R Ejnarsson invest AB|Knippla Rörkompani Aktiebolag|KNIPPLA FASTIGHETSFÖRVALTNING KOMMANDITBOLAG
+3BD Development AB,5569749459,3,40,Zannakis; Theodoros,6,4,3BD Development AB|Anodox AB|JVMB Fastigheter AB|Rekreation Västö Gotland AB|EVOTIV Aktiebolag|Bostadsrättsföreningen Seaside
+Ventilation.Styr.Kylservice Vestkyl AB,5566490594,5,54,Persson; Björn Nicklas,2,1,UNIT HOLDING AB|Ventilation.Styr.Kylservice Vestkyl AB
+Lundgrens Rör i Vedum Aktiebolag,5562426170,2,47,Lundgren; Dan Allan Tony,1,0,Lundgrens Rör i Vedum Aktiebolag
+SH Schakt i Kungshamn AB,5566050463,2,56,Hansson; Rolf Stefan,9,2,SH Schakt i Kungshamn AB|HÅLLÖ INVEST KOMMANDITBOLAG|Hogenäs Kross AB|Fisketången Fastigheter AB|Hovenäs Hamn Fastighetsutveckling AB|SUNNERSKÄR FASTIGHETER KOMMANDITBOLAG|Sunneskär AB|Bergbolaget i Väst AB|Stefan Hansson Holding AB
+Styrud Rörtryckning AB,5567954895,3,52,Tell; Björn Ingemar,3,6,Styrud Arctic AB|Styrud Rörtryckning AB|Styrud Ingenjörsfirma Aktiebolag
+Aktiebolaget Bredin & Co,5560341561,2,55,Månsson; Rolf Tom Ola,5,3,Aktiebolaget Bredin & Co|M-Elinstallation AB|Teknikcon i Väst AB|M-Gruppen i Väst AB|M-Energicenter i Mark AB
+Svensk Installationspartner AB,5568421076,5,48,Palsson; Carl Kristian Thor,4,8,Svensk Installationspartner AB|Presolvera revision & konsultationer AB|Myselfonline AB|Incorporated Game Solutions Gothenburg AB
+Svenljunga Byggnadsisolering Aktiebolag,5562277060,5,49,Börjesson; Lars Sören,2,5,Svenljunga Byggnadsisolering Aktiebolag|SBI Fastighets AB
+RO-Gruppen AB,5563368777,2,47,Jaldevik; Karl Andreas,15,10,RO-Gruppen Förvaltning AB|RO-Gruppen Göteborg AB|RO-Gruppen Koncept AB|RO-Gruppen Butik AB|RO - Gruppen MD AB|RO-Gruppen Södra Älvsborg AB|RO-Gruppen Byggservice AB|Toxic Interactive Solutions AB|RO-Gruppen AB|G-lösa i Borås AB|RO-Gruppen Fastighets AB|RO-Gruppen Stockholm AB|RO-Gruppen Göteborg PU AB|RO-Gruppen Koncept PU AB|Järnhättan Bostad AB
+Olofssons Fasadputs & Måleri; Bygg Aktiebolag,5565169793,3,41,Olofsson; Alvar Tommy Lennart,6,8,Olofssons Fasadputs & Måleri; Bygg Aktiebolag|Carlbom & Sandersson CASA Bygg AB|Olofssons Byggrätt i Väst AB|Kolhättans Båthamn AB|Olofssons Bygg Holding AB|Kolhättan Norra fiber ekonomisk förening
+Gajd Arkitekter AB,5566448972,3,60,Nädele; Johan Mikael,7,10,Gajd Arkitekter AB|Ateljé Arkitekten i Väst AB|Arkitektbyrån Losman och Nädele Aktiebolag|Losman Holding AB|Nädele Holding AB|Kinnekulle konsult i Götene AB|Losman & Nädele Holding AB
+Takorama Aktiebolag,5563908150,3,53,Norrby; Carl Michael,6,8,Takorama Aktiebolag|Treat By Milla o Jennie AB|Seagull Aktiebolag|Uddevalla Arena AB|Millas Klippstuga AB|Norrby Förvaltning AB
+Wikstrands Maskin Aktiebolag,5564674967,2,41,Vikstrand; Torbjörn Peter,3,0,Wikstrands Reklam och dekor AB|Wikstrands Maskin Aktiebolag|Wikstrands Förvaltning AB
+Elforum Göteborg AB,5591334031,3,39,Andersson; Fredrik Lars Johan,4,1,Elforum Göteborg AB|Johan Andersson i Öjersjö AB|Elforum Holding AB|Östanvåg Holding AB
+TidX Förvaltning AB,5567438345,4,46,Antonsson; Mattias Fredrik,3,3,Thunderstruck Förvaltning AB|TidX Framtid AB|TidX Förvaltning AB
+Kollektivrör Aktiebolag,5561880872,2,43,Karlsson; Peter Nils-Gunnar,4,0,Kollektivrör Aktiebolag|Kollektivrör Fastigheter AB|Kollektivrör Holding AB|Fastighetsbolaget Kännestorp 2:11 AB
+Kvibergs Måleri och Entreprenad AB,5568988959,3,48,Groeger Berndt; Jonas Bertil,2,13,Kvibergs Måleri och Entreprenad AB|Timmerslätts Måleri AB
+Snixåsens Entreprenad Aktiebolag,5562754928,3,60,Nilsson; Peter Kjell Jonas,1,1,Snixåsens Entreprenad Aktiebolag
+Söneborn Förvaltning AB,5565887659,2,42,Söneborn; Bengt Anders Erik,3,5,Söne El AB|Söneborn Förvaltning AB|Long Vindpark AB
+Teknikrör i Kinna AB,5566683420,5,42,Pyrrö; Jari Juhani,6,3,Teknikrör i Kinna AB|Emmaljunga Rör & Svetsservice AB|Bohus Golv & Byggtjänst AB|Svenska Fältbyggnader AB|JAPY Förvaltning AB|Teknikrör Förvaltning i Kinna AB
+Seth's Antenn & Teleteknik Aktiebolag,5563032662,7,49,Eskilsson; Jonny Rickard,7,8,Seth's Antenn & Teleteknik Aktiebolag|Bredbandig IT Communication i Göteborg AB|Solenergi Göteborg AB|Nöjesagenturen Göteborg|Net Solution Göteborg AB|Seths Gruppen AB|Bostadsrättsföreningen Dalen nr 26
+Seth's Antenn & Teleteknik Aktiebolag,5563032662,7,49,Mann; Donald Christoffer,6,4,Seth's Antenn & Teleteknik Aktiebolag|Bredbandig IT Communication i Göteborg AB|Solenergi Göteborg AB|CANT Service Aktiebolag|Seths Gruppen AB|Satt Aper Solution Göteborg AB
+Peder Borrare & söner Aktiebolag,5563806479,3,65,Håkansson; Loi Marcus,1,1,Peder Borrare & söner Aktiebolag
+SCARTAB AB,5565228367,3,52,Karlsson; Erik Niklas,1,0,SCARTAB AB
+Lancom Aktiebolag,5564640299,5,53,Fredler; Ulf Rikard Marcus,1,3,Lancom Aktiebolag
+Michael LK Konsultation & Byggnation AB,5590434063,2,41,Karlsson; Michael Linus,6,2,Michael LK Konsultation & Byggnation AB|Michael K-B Service AB|Staysa Group AB|Michael K-B Fastigheter AB|Påskbostäder AB|Michael K-B Holding AB
+Pang i Bygget Aktiebolag,5567485783,2,41,Eriksson; Ulf Håkan Arne,4,10,Pang i Bygget Aktiebolag|PIBAB Bygg & Vent Kommanditbolag|Pang i Bygget i Väst Handelsbolag|PIBAB Bygg AB
+Rörfixarna i Hjo AB,5566713870,2,50,Alexandersson; Stefan Gunnar Joakim,2,1,Rörfixarna i Hjo AB|Salex Rörtjänst
+Markmontage BEAB AB,5566258157,3,52,Svensson; Jens Martin,2,1,Markmontage BEAB AB|Grönå Entreprenad AB
+7H Måleri & Entreprenad AB,5569697336,3,33,Terdevaj; Bedri,4,1,7H Måleri & Entreprenad AB|VF byggtjänst och fastighetsskötsel AB|7H Måleri Holding AB
+Rollerboys Måleri AB,5569413296,2,41,Söderqvist; Martin Andreas,5,7,Rollerboys Måleri AB|Rollerboys Måleri Stockholm AB|Rollerboys Måleri Malmö AB|Wörkster Kreativ AB|Paint Or Die Holding AB
+Paintab Sverige AB,5565636361,3,62,Mårtensson; Per Mårten,3,0,Netramm Förvaltning i Grästorp AB|Paintab Sverige AB|Paintab Life Aktiebolag
+M-Elinstallation AB,5591615355,2,55,Månsson; Rolf Tom Ola,5,3,Aktiebolaget Bredin & Co|M-Elinstallation AB|Teknikcon i Väst AB|M-Gruppen i Väst AB|M-Energicenter i Mark AB
+Livia Golventreprenad AB,5566308044,2,40,Neves; Joao Alexandre,2,4,Livia Golventreprenad AB|Golv i Väst i Göteborg AB
+Melloff Bygg AB,5564635091,3,54,Lindberg; Nils Johan Thomas,1,0,Melloff Bygg AB
+Rylanders El i Lysekil AB,5566825948,4,52,Karlsson; Lars Magnus Johan,4,3,Rylanders El i Lysekil AB|Rylanders VVS AB|Lysekils Elektriska AB|KAMP Förvaltnings AB
+GBS Entreprenad AB,5566266812,2,45,Martinsson; Anders Niklas,11,3,GBS Entreprenad AB|Tjuvkils Havsport AB|GBS Fastigheter AB|Göteborgs Bygg & Stenentreprenader|Fastigheten Kyrkskolan i Ytterby AB|Bättre Bostäder i Kungälv AB|Fastighetsaktiebolaget Solberg|Akutbostäder i Väst AB|GBS Invest AB|Bostadsrättsföreningen Ytterby Stad|GBS Holding AB
+Tomas Grävare AB,5563545135,3,46,Carlsson; Frank Tomas,1,6,Tomas Grävare AB
+Limmareds Rör Aktiebolag,5562269745,4,48,Carlsson; Patrik Gunnar,2,0,XY Climate Sverige AB|Limmareds Rör Aktiebolag
+Carrier Refrigeration Sweden AB,5562262419,4,51,Thomsen; Søren Steen,1,14,Carrier Refrigeration Sweden AB
+Tomorrow AB,5567829568,3,49,Landgren; Andreas Yoon Jin,5,4,Tomorrow AB|Tomorrow Sthlm AB|Bright Circle Group AB|Tomorrow Digital AB|Corex Trade Kommanditbolag
+Rollsbo Ventilation och Bygg AB,5567688279,4,54,Justesen; Preben Emil,2,3,Rollsbo Ventilation och Bygg AB|RVB Väst AB
+Parkettpartner AB,5591223564,3,52,Norén; Anders Mattias,2,2,Parkettpartner AB|Marcus Noréns Elektriska AB
+Seniorbolaget i Sverige AB,5568233695,3,63,Bergeld; Henrik Sven Olof,8,24,Seniorbolaget i Sverige AB|PTRM Bergeld AB|Seniorbolaget Service i Sverige AB|Imaginios AB|Juniorbolaget i Sverige AB|Bergeldgruppen AB|GOADIP Holding AB|Kunskapscentret i Sverige Ekonomisk förening
+Epsilon Byggkonsult Aktiebolag,5563274439,3,47,Jodin; Johan Carl Olof,2,2,Epsilon Byggkonsult Aktiebolag|STRUCON Byggkonsult Aktiebolag
+Kjellgren Kaminsky Architecture Aktiebolag,5567239545,2,42,Kjellgren; Fredrik Andreas,6,6,Kjellgren Kaminsky Architecture Aktiebolag|Kjellgren Kaminsky Brandström Gustavslund AB|Bonden 7 Gustavslund AB|KKP Utveckling AB|Fredrik Kjellgren Formgivning AB|Kjellgren Kaminsky Holding AB
+Mark & Energibyggarna Infra AB,5569043051,3,54,Thorsson; Karl Henrik Andreas,5,4,AXEDA Entreprenad AB|Mark & Energibyggarna Infra AB|RiTho Design AB|Vikens Väst AB|Teresa Thorsson AB
+Lerums Tekniska Isolering LTI AB,5565777231,4,46,Johansson; Mats Ola,16,17,Lerums Tekniska Isolering LTI AB|Nolanders Byggservice AB|Isoleringsgrossisten i Göteborg AB|VG Teknisk Isolering AB|LTI Utveckling & Fastigheter AB|Evolution Sweden AB|Boxer Fastigheter 2 AB|Boxer Fastigheter AB|Boxer Creation AB|DLM Holding AB|Västsvenska Isolering AB|Isoleringsteknik i Jönköping AB|Ljungviks Café & Bar AB|John Fredrik Sweden AB|Boxer Fastigheter 3 AB|Yesman AB
+Kinna El & Tele Aktiebolag,5564825288,2,72,Sjölund; Lennart Sigvard Olof,17,37,New Nordic Healthbrands AB|Parkallen Invest AB|Elinväst Henrik Nilsson AB|Kinna El & Tele Aktiebolag|Östanbäck Timmerhus AB|Elgruppen Väst AB|Fässbergs Elektriska Aktiebolag|Quickcool AB|Utmaningarnas Hus i Malmö AB|Godiva AB|Innovationskonsult Lundholm Aktiebolag|Teamification AB|ErySave Aktiebolag|Nomvula AB|Parkallen Group AB|Husbåtskompaniet i Junsele AB|Argmed Kommanditbolag
+MoodHouse AB,5566906169,2,53,Vanhollebeke; Karin Susanne,3,6,Moodhouse Invest AB|MoodHouse AB|Mood House
+Bergendahls El Gruppen Aktiebolag,5565298493,5,46,Olin; Lars Johannes,11,9,Omvägen Holding AB|Bergendahls El Projekt AB|TELENTA Aktiebolag|Elektra Elteknik i Göteborg Aktiebolag|Bergendahls El Energiteknik AB|Bergendahls El Service Aktiebolag|Bergendahls El Gruppen Aktiebolag|Bergendahls El i Kungälv AB|Bergendahls EL Syd AB|Fastighetsbolaget Omvägen AB|Lars Olin Holding AB
+Tomas Byggare Aktiebolag,5565389995,4,62,Gustafsson; Håkan Bertil,3,2,Sundsörns stugägares ekonomiska förening|Tomas Byggare Aktiebolag|Farmartjänst Mariestad AB
+Landskapsgruppen Aktiebolag,5562535988,5,49,Ekström; Petra Agneta,3,6,Landskapsgruppen Holding AB|Landskapsgruppen Aktiebolag|Landskapsgruppen Öresund AB
+Södra Vägens Låsservice Aktiebolag,5564350097,4,63,Enander; Leif Tommy,2,3,Södra Vägens Låsservice Aktiebolag|T Security AB
+P. Chr. Rusch & Son Aktiebolag,5565145793,3,57,Olesen; Sören,1,0,P. Chr. Rusch & Son Aktiebolag
+VAVIS AB,5563761211,3,61,Larsson; Lennart Ola,3,9,Bostadsrättsföreningen Rönnen nr 14|Simmis i Göteborg AB|VAVIS AB
+Swea Asfalt i Väst AB,5568044688,2,44,Gill; Baljit Singh,3,2,Byggnader i Väst AB|Swea Asfalt i Väst AB|Swea Maskin AB
+Skara Bygg & Entreprenad AB,5590233390,3,42,Calau-Dobre; Iulian,1,1,Skara Bygg & Entreprenad AB
+BST West AB,5590705132,5,44,Lindell; Anders Fredrik,4,4,BST West AB|ITAG Production AB|Steenari Invest AB|Fredrik Lindell Invest AB
+Svanesunds Rör Aktiebolag,5561258269,2,58,Carlsson; Hans Olof,1,3,Svanesunds Rör Aktiebolag
+FSD Göteborg Aktiebolag,5567206668,3,50,Hansson; Pär Magnus,1,3,FSD Göteborg Aktiebolag
+IBS i Göteborg AB,5591421218,3,53,Asp; Pär Daniel,9,4,DAP Fastigheter AB|IBS Byggnadsställningar AB|IBS i Kalmar Län AB|IBS i Göteborg AB|IBS i Östergötland AB|Björröds Fastigheter AB|Hwita 7 AB|DA2 AB|DA1 AB
+Willa Entreprenad i Göteborg AB,5565325262,3,57,Harbeck; Bengt Peter,3,5,Harbeck's Consulting AB|Peter Harbeck AB|Willa Entreprenad i Göteborg AB
+Totalbyggen Väst AB,5569097727,3,36,Lundin; Björn Magnus,3,1,Betongsystem Lundin AB|Lundin Vester Holding AB|Totalbyggen Väst AB
+Totalbyggen Väst AB,5569097727,3,36,Vester; Anders Henrik,2,2,Lundin Vester Holding AB|Totalbyggen Väst AB
+L Nybergs Bygg och Entreprenad AB,5565148383,2,62,Nyberg; Linda Magdalena,1,2,L Nybergs Bygg och Entreprenad AB
+Apexa Competence AB,5569304347,2,45,Johansson; Ingvar Mikael,1,4,Apexa Competence AB
+OAT Måleri AB,5562048032,4,55,Johansson Jinnemark; Per-Olof,4,4,OAT Måleri AB|OAT Utveckling AB|OAT Kök & Lack AB|OAT Gruppen AB
+Nya JV Västbygg AB,5591475990,2,42,Gunnarsson; Claes Viktor,6,9,Nya JV Västbygg AB|JV Västbygg AB|FLS Redovisning Aktiebolag|CV Fastigheter och Konsult AB|Göteborg Bygginvest Holding AB|Bostadsrättsföreningen Sörvik
+EPG Konsult Samordnad VVS-Teknik Aktiebolag,5564262854,3,57,Hedenberg; Per Göran,2,3,EPG Konsult Samordnad VVS-Teknik Aktiebolag|Göran Hedenberg Konsult Aktiebolag
+Kent Ohsol Målab Aktiebolag,5563440899,3,35,Ohsol; Kenth Ove,2,2,Krom Konsulter i Kungsbacka AB|Kent Ohsol Målab Aktiebolag
+2Electrify AB,5569522203,3,38,Hentzler; Stephan,2,0,Sun 2Electrify AB|2Electrify AB
+2Electrify AB,5569522203,3,38,Ung; Fredrik Emanuel,6,6,2Electrify AB|Bergeld.tech AB|Bubro AB|Bluepuma Paintball|Sun 2Electrify AB|Bluepuma Holding AB
+Ljungbloms Elektriska AB,5567586762,2,54,Karlsson; Thomas Mathias,3,0,Olof Leander Måleri AB|WH Installation AB|Ljungbloms Elektriska AB
+Marieholms Måleri Aktiebolag,5569920019,3,46,Svensson; Bo Jonas,3,7,JBS Holding AB|Marieholms Måleri Aktiebolag|S2 Måleri AB
+Rör o Energiteknik i Sverige AB,5568560683,3,46,Bengtsson; Frank Bo Fredrik,2,3,JFJ Invest AB|Rör o Energiteknik i Sverige AB
+Cliff Design AB,5564989035,6,50,Nordlund; Bengt Anders,1,4,Cliff Design AB
+Svarvarens Servicebolag AB,5568726136,2,40,Rossing; Harald Per Johannes,11,19,RossingGruppen Holding AB|Rossing Åkeri & Logistik AB|Svensk Budservice väst AB|Rossing Management AB|Fordonsteknik i Väst AB|Svarvarens Servicebolag AB|Nordlog Skandinavien AB|R Gruppen Hyr AB|Power Solutions Väst AB|Silvergärde Åkeri & Transport AB|Rossing Assets AB
+Göteborgs Konsult och Byggledning AB,5569257834,7,60,Björkman; Jan Christian,2,0,Göteborgs Konsult och Byggledning AB|Rämnå Konsult AB
+Vadsbolarm & Säkerhetstjänst AB,5563247856,4,62,Johansson; Leif Daniel,2,0,Moholm Björkelunds Förvaltning AB|Vadsbolarm & Säkerhetstjänst AB
+Adela Flaggcenter Aktiebolag,5565761094,2,36,Lind; Fredrik Roger,5,0,Adela Flaggcenter Aktiebolag|Flaggstångs-Experten i Väst AB|Allflagg International Aktiebolag|Linds FTS|L4 Holding AB
+Svensk Villavärme AB,5569648107,2,54,Rydell; Jörgen Folke,1,4,Svensk Villavärme AB
+Information & Trademark - Store Sweden AB,5567538458,3,47,Backström Gabrielson; Linda Mari,8,12,Information & Trademark - Store Sweden AB|Do It Event AB|HIK Invest AB|Egotist Aktiebolag|S-Backstrom AB|Endless Chapter AB|Linda Backström Gabrielson AB|Marlin Invest Sweden AB
+Ventilationsgruppen service i Göteborg AB,5568923097,3,53,Ericsson; Ulf Johan,1,3,Ventilationsgruppen service i Göteborg AB
+Wahlbäcks El Aktiebolag,5562341346,5,62,Bergström; Per Martin,1,2,Wahlbäcks El Aktiebolag
+Willes Projekt AB,5567187009,2,65,Wilhelmson; Lars Peter,2,1,Willes Holding AB|Willes Projekt AB
+Villamontage i Väst AB,5568366255,4,49,Lund; Cary Christian,3,3,Bostadsrättsföreningen Furuhöjdsterrassen|Villamontage i Väst AB|Christian Lund Bygg i Göteborg AB
+Toarps Plåtslageri AB,5590030226,3,38,Lindberg; Ulf Johan Theodor,5,3,Toarps Plåtslageri AB|Vägporten Fastighets AB|Länghem Fastighets AB|UJT Consulting AB|LX2 Förvaltning AB
+Penselbröderna AB,5567893325,4,49,Mellberg; Lars Olof,1,1,Penselbröderna AB
+Powerstruc AB,5568449697,2,39,Adolfsson; Martin Christoffer,3,2,Bostadsrättsföreningen Kommendantsängen 2:2|Molvino AB|Powerstruc AB
+Lillhagen Byggnads AB,5568161045,4,46,Andersson; Niklas Lars Åke,30,23,Billström Riemer Andersson AB|Billström Riemer Andersson Bygg AB|Lillhagen Byggnads AB|Billström Riemer Andersson Teknik AB|BRA Laholm AB|Knarrholmen Drift AB|BRA Knarrholmen AB|BRA Stallbacke AB|KM Knarren AB|BRA Framtid 7 AB|BRA Framtid 10 AB|AB LAMNAV 225|BRA Framtid 11 AB|BRA Framtid 8 AB|Knarrholmen Utveckling AB|BRA Framtid 4 AB|KM Invest AB|BRA Framtid 9 AB|BRA Framtid 6 AB|BRA Framtid 5 AB|KM Andersson AB|NA Göteborg AB|BRA Framtid 1 AB|Billström Riemer Andersson Förvaltning AB|Knarrholmen Förvaltning AB|Föreningen Brevik Ek. för.|BRA Framtid 3 AB|BRA Framtid 13 AB|BRA Framtid 12 AB|BRA Framtid 2 AB
+LECAB Materialhantering AB,5569822926,4,56,Jidbratt; Dan Ivo,2,4,LECAB Materialhantering AB|Jidbratt Invest AB
+LECAB Materialhantering AB,5569822926,4,56,Eriksson; Erik Jesper,3,2,A Eriksson HR AB|LECAB Materialhantering AB|Eriksson Gruppen i Mölnlycke AB
+WASARECON ENTREPRENAD AB,5567745228,2,56,Thulin; Christer Bengt,11,15,WASARECON ENTREPRENAD AB|iioote AB|Bygg och Projekt i Göteborg AB|JW Fastighets AB|WJ Fastighets AB|GMU AB|J & W Holding AB|Obsidera Holding AB|GMU Holding AB|Bostadsrättsföreningen Backa 766:93|Bostadsrättsföreningen Bö 84:4
+Borgstena Group Sweden AB,5561350694,5,52,Ferriera Machado; Jorge Manuel,1,13,Borgstena Group Sweden AB
+Trestads Ventilations Montage Aktiebolag,5562792373,3,61,Juntunen; Toivo Aatos,2,2,Trestads Ventilations Montage Aktiebolag|Drivhjulet Aktiebolag
+Trestads Ventilations Montage Aktiebolag,5562792373,3,61,Juntunen; Esa Antero,2,4,Trestads Ventilations Montage Aktiebolag|Drivhjulet Aktiebolag
+Mareld landskapsarkitekter AB,5566998612,3,54,Engelbrektsson; Ida Elina,3,2,2030digital AB|CVKM i Göteborg Ekonomisk förening|Mareld landskapsarkitekter AB
+TB-GRUPPEN Projekt AB,5569832271,2,54,Lerander; Marcus Clas Fredrik,103,98,TB-GRUPPEN AB|TB-GRUPPEN Bostad AB|TB-GRUPPEN Projekt AB|TB-GRUPPEN Utveckling AB|Bomullen Fastighets AB|Jägaren i Alingsås AB|TB-GRUPPEN Förvaltning AB|Smedjebo Fastighets AB|Mejesås Fastighets AB|Dragarbrunn 3:2 3:3 3:4 Ekonomisk förening|Vårklinten Fastighets AB|Tokebacka Fastighets AB|Krattan Fastighets AB|Mjörnstranden Aktiebolag|Blåklinten 5 i Vårgårda AB|Smedjan 22 i Alingsås Fastighets AB|Strandgården Fastighets AB|Affärshuset Storken AB|Fagrabo Fastighets Aktiebolag|Stora Bommen AB|Alsike Trädgårdsstad Markutveckling AB|Klippstranden AB|TB-GRUPPEN Holding AB|Bostadsrättsföreningen Herrgårdsbyn i Gäddeholm|MM Industrilokaler AB|Östra Landmärket nr 17 ekonomisk förening|Tokebacka Fastighets 2 AB|PM Industrilokaler AB|Fabege V 108 AB|LA Industrilokaler AB|Östra landmärket nr 12 ekonomisk förening|Villa Käringberget ekonomisk förening|Östra landmärket nr 16 ekonomisk förening|Östra landmärket nr 15 ekonomisk förening|Bergstranden AB|TB-GRUPPEN Fastighets AB|Fabege V 103 AB|Fingerborgen Fastighets AB|Ekgläntan i Öst 15 AB|Ekgläntan i Öst 18 AB|Ekgläntan i Öst 17 AB|Ekgläntan i Öst 16 AB|Fabege V 102 AB|Skogsbjörken 5 Ekonomisk förening|Dallasskrapan Ekonomisk förening|Bostadsrättsföreningen Skogshusen i Knivsta|Bostadsrättsföreningen Parkhusen i Väsby|Ekmansgatan Fastighets AB|Bostadsrättsföreningen Syrenlunden i Gäddeholm|Bostadsrättsföreningen Lignum i Knivsta|Östra Landmärket nr 19 ekonomisk förening|TB-GRUPPEN Fastighets 2 AB|Skansborgen Fastighets AB|GM Industrilokaler AB|Ekgläntan i Öst 14 AB|Ekgläntan Vrå i Öst AB|Ekgläntan i Väst AB|DS Industrilokaler AB|PJ Industrilokaler AB|Bomullen Förvaltning AB|Skogsbjörken 7 Ekonomisk förening|Ekgläntan i Sthlm AB|Ekgläntan Älvsborg i Väst AB|Bostadsrättsföreningen Stadsporten i Knivsta|Bostadsrättsföreningen Granebergstorpet i Knivsta|TB-GRUPPEN Fastighets 4 AB|Ekgläntan i Öst 20 AB|Ekgläntan i Öst 21 AB|Ekgläntan i Öst 22 AB|Ekgläntan i Öst 23 AB|Ekgläntan i Öst 24 AB|Ekgläntan i Öst 25 AB|Östra Landmärket nr 18 ekonomisk förening|AlingsåsHinden Fastighets AB|MK Industrilokaler AB|DG Industrilokaler AB|LS Industrilokaler AB|AS Industrilokaler AB|IA Industrilokaler AB|Bostadsrättsföreningen Wijkhusen i Väsby|Östra Landmärket nr 25 ekonomisk förening|Östra Landmärket nr 21 ekonomisk förening|Östra Landmärket nr 23 ekonomisk förening|Östra Landmärket nr 22 ekonomisk förening|Östra Landmärket nr 24 ekonomisk förening|Östra Landmärket nr 20 ekonomisk förening|Ekgläntan i Väst 5 AB|Ekgläntan i Öst AB|Ekgläntan i Väst 7 AB|Ekgläntan i Öst 12 AB|Kastellborgen Fastighets AB|MD Industrilokaler AB|TB Gruppen Fastighets 5 AB|JP Industrilokaler AB|Bostadsrättsföreningen Fresta Berså i Väsby|Ekgläntan i Väst 6 AB|TB-GRUPPEN Fastighets 3 AB|SK Industrilokaler AB|Ekgläntan i Öst 19 AB|Fastighets AB Solna Lagern 3|Nygårdshöjd Fastighets AB|Ekgläntan Älvsborg i Väst 2 AB|Bostadsrättsföreningen Stenbrottsskogen i Alsike
+Viapm AB,5590294749,3,44,Svennberg; Bo Eric Richard M,3,5,Viapm AB|Viapm Holding AB|Rehab Brösarp Aktiebolag
+Entreprenadteknik i Göteborg AB,5566781752,3,39,Vang Barkhage; Ina,3,0,Entreprenadteknik i Göteborg Anläggning AB|Entreprenadteknik i Göteborg Holding AB|Entreprenadteknik i Göteborg AB
+One More Family AB,5590521810,5,36,Andersson; Kristofer Emil,2,2,One More AB|One More Family AB
+One More Family AB,5590521810,5,36,Klasson; Anders Torsten Sture,4,2,One More Family AB|One More AB|One More Production|Härnqvist HQ AB
+Pyramiden Bonny Brigel Aktiebolag,5562324144,2,47,Brigel; Bonny Kjell,6,6,Pyramiden Bonny Brigel Aktiebolag|Bostadsrättsföreningen Bäckebol Företagspark|Göteborgs Tak o Fasadtvätt AB|Eugén Bühler Aktiebolag|Riksbyggen Bostadsrättsförening Oscar Fredrik|Brigolo AB
+Svea Construction AB,5567627954,2,32,Rydén; Andreas Lars Peter,3,1,SC GBG AB|Björketorp Holding AB|Svea Construction AB
+Rikshiss Service AB,5566891767,3,58,Tilander; Kurt Joakim,1,0,Rikshiss Service AB
+A-Team Bygg & Inredningstjänst i Göteborg AB,5566071394,4,50,Håkansson; Peter Mikael,7,5,A-Team Projekt Aktiebolag|A-Team Bygg & Inredningstjänst i Göteborg AB|A-Team Byggservice AB|A-Team Förvaltning AB|A-team Projekt Förvaltning AB|A-team Byggservice i Stockholm AB|Tolftemars invest AB
+Rstudio for architecture AB,5568069214,6,49,Johanson; John Russell,9,3,Rstudio for architecture AB|Rstudio for architecture development AB|Rstudio construction AB|Rstudio Property Holding AB|Rstudio Holding AB|Rproject 100 AB|Rproject 210 AB|Halder Holding AB|Jackstone Properties AB
+Servent Ventilation i Göteborg Aktiebolag,5564561404,4,65,Schultz; Horst Manfred,1,2,Servent Ventilation i Göteborg Aktiebolag
+Rör-Anders VVS & Energi i Vänersborg AB,5565959508,3,37,Norrman; Peter,3,1,Racketcenter Vänersborg AB|Rör-Anders VVS & Energi i Vänersborg AB|Norrmans Förvaltning i 2stad AB
+Sjövalla VVS AB,5590761028,4,47,Malmros; Jan Robert,6,22,Sjövalla Byggservice Aktiebolag|Sjövalla VVS AB|Sjövalla Göteborg Backa 109:2 AB|Sjövalla Holding AB|Bostadsrättsföreningen Häggen 17:10|Sjövalla Invest AB
+Hemglans AB,5591317101,2,36,Asaad; Rashed,2,0,CleanHouse i Väst AB|Hemglans AB
+UMF Entreprenad AB,5567834410,3,47,Zejnulla; Fredric Arif,1,3,UMF Entreprenad AB
+Lans Plåt Aktiebolag,5562794544,2,58,Lans; Egon Ingemar,3,2,CK Holiday AB|Lans Plåt Aktiebolag|Donego AB
+Kungstens Glasmästeri AB,5566889332,4,51,Eriksson; Anders Christian,4,2,Kungstens Glasmästeri AB|Glashuset i Hagen Aktiebolag|Anders & Dennis Förvaltnings AB|Frölunda Glasmästeri AB
+thorbjörnsson+edgren arkitektkontor AB,5565755450,3,60,Thorbjörnsson; Ulf Fredrik,2,4,Frilanshuset Frukt Ekonomisk förening|thorbjörnsson+edgren arkitektkontor AB
+Akustikverkstan i Skaraborg Holding AB,5569366023,4,47,Andrén; Pär Tomas,5,10,Akustikverkstan Montage AB|Akustikverkstan i Skaraborg Holding AB|Acoustic Facts Scandinavia AB|Akustikverkstan Konsult AB|Akustikverkstan Lab AB
+Scanakos Byggledning Aktiebolag,5563591998,7,58,Tuvert; Jan Ingemar,2,3,Scanakos Byggledning Aktiebolag|Jan Tuvert Byggkonsult AB
+ViAQ Projektledning AB,5568507460,2,46,Berg; Bo Anders,4,6,ViAQ Projektledning AB|ViAQ AB|ViAQ Miljö Väst AB|Montab AB
+Svantes Bygg och Trärenovering AB,5565784104,3,66,Jonsson; Kjell-Erik Svante,3,5,Löjan AB|Svantes Bygg och Trärenovering AB|Skövde Entreprenad AB
+Mark och Bygg; Gullspångs Grävmaskiner Aktiebolag,5564315231,4,54,Eriksson; Klas Magnus Viktor,2,4,Mariestads Grävmaskiner AB|Mark och Bygg; Gullspångs Grävmaskiner Aktiebolag
+Eriksbergs Holding AB,5566302922,3,49,Jonason; Olof Jerker,4,11,Lindholmens Bygg i Göteborg AB|Eriksbergs Holding AB|Hjuviks Fastighets AB|ALVIJO AB
+DREEM AB,5569551897,3,58,Iwdal; Nina Maya Kristina,5,11,DREEM AB|Artist Unknown AB|IN Group AB|Mayark Holding AB|Bostadsrättsföreningen Engelbrekt 5
+Skorstensfolket Sverige Aktiebolag,5566572276,6,56,Tellestam; Dan Martin Jörgen,2,1,Tellestams Redovisningsbyrå AB|Skorstensfolket Sverige Aktiebolag
+Brion Teknik Fyrbodal AB,5591781553,5,41,Hennström; Carl Fredrik John,1,2,Brion Teknik Fyrbodal AB
+Bohusläns Kommunala Exploateringsaktiebolag,5560699539,5,60,Pettersson; Lars Gunnar,2,5,Kungälv-Marstrand Marknad & Näringsliv            Ekonomisk förening|Bohusläns Kommunala Exploateringsaktiebolag
+Björn och Robin isoleringsaktiebolag,5592076771,4,43,Lindberg; Björn Fredrik,3,0,Björn och Robin isoleringsaktiebolag|PS Isol AB|Lindbergs plåt och isolering AB
+Björn och Robin isoleringsaktiebolag,5592076771,4,43,Eriksson; Robin Nils Erik,2,0,Björn och Robin isoleringsaktiebolag|Isoleringsprojekt i Göteborg AB
+Tele & Säkerhetstjänst i Skara Aktiebolag,5564897055,2,42,Strömberg; Thomas Bertil Valdemar,1,7,Tele & Säkerhetstjänst i Skara Aktiebolag
+Västkonsult i Trollhättan Aktiebolag,5562765981,2,68,Wahlström; Mats Göran,2,2,Västkonsult i Trollhättan Aktiebolag|John Evert Wahlström AB
+Totalinstallation i Göteborg Aktiebolag,5563205078,4,54,Långström; Bernt Niclas,2,2,Totalinstallation i Göteborg Förvaltning AB|Totalinstallation i Göteborg Aktiebolag
+Jumperfabriken Sweden AB,5567547954,3,57,Synnes; Gun Elisabet Maria,2,7,Jumperfabriken Sweden AB|Synnes Consulting AB
+UA SB Gruppen AB,5590888904,3,40,Stjernqvist; Hans Jimmi Cristofer,4,2,UA SB Gruppen AB|Snickargruppen i Bohuslän AB|Plåtslagargruppen i Bohuslän AB|Svenska Byggruppen Inköp & Produktion AB
+BOHUS BERGSPRÄNGNING Aktiebolag,5564007788,4,50,Andreasson; Lars Robert,3,3,BOHUS BERGSPRÄNGNING Aktiebolag|Sanne RR AB|Robbans Maskin
+Strong Solutions Sweden Entreprenad AB,5591423669,4,47,Dahlberg; Simon Valdemar,3,4,FRP Solutions AB|Strong Solutions Sweden Entreprenad AB|Strong Solutions Sweden AB
+Arkitekterna Krook & Tjäder i Borås AB,5561821082,4,55,Wansbury; Dominic,2,4,Arkitekterna Krook & Tjäder i Borås AB|D T H Invest AB
+Geotechnica Sverige AB,5590931191,3,42,Dahlström; Anders Marcus,5,1,Geotechnica Sverige AB|Geotechnica Maskin Göteborg AB|Geozenit AB|Gøteborgs Grunnundersøkelser AB|Geotechnica Holding Göteborg AB
+Rörtjänst i Mellerud Aktiebolag,5563501302,3,42,Andersson; Karl-Evert Roger,3,1,Rörtjänst i Mellerud Aktiebolag|AFF Fastighetsbolag AB|Snixåsvatten Ek. för.
+WOSAB Plåt AB,5568137920,4,47,Kentsdotter; Jannike Elisabeth,4,7,WOSAB Plåt AB|WOSAB Fastigheter Väst AB|SextonTretton Fastighet Kommanditbolag|JKN Holding AB
+TEJ Värdepapper Aktiebolag,5562360833,2,78,Dernå Lindholm; UllaBritt Kristina,3,1,Möbler i Trestad AB|TEJ Värdepapper Aktiebolag|Aktiebolaget TEJ Fastigheter
+Trestads Telemontage Aktiebolag,5562312701,2,58,Torstensson; Ulf Inge Jörgen,5,4,Trestads Telemontage Aktiebolag|Trademan Electronics Aktiebolag|Telemontage Uddevalla AB|Spot on caravan AB|Trestads Larmteknik Kommanditbolag
+High Mind Studios AB,5569972267,2,45,Krantz; Caroline Matilda Elisabeth,6,5,High Mind Studios AB|High Mind AB|Steampipe Production Studio AB|Garland Pine AB|Top of Mind AB|High Mind Group AB
+Peab Asfalt Väst AB,5591326508,3,59,Jakobsson; Hans Håkan,8,16,Swerock Aktiebolag|Peab Asfalt AB|Peab Asfaltfräsning Aktiebolag|Peab Asfalt Väst AB|Berg & Betongtätning i Sverige AB|Peab Industri AB|Bodenhus AB
+O Andreasson Byggnads AB,5568602485,2,36,Andreasson; John Olof Roberth,1,0,O Andreasson Byggnads AB
+Svarteborgs Plåt AB,5569439903,2,49,Dahlberg; Anders Bertil,4,1,Svarteborgs Plåt AB|Wiktorssons Byggservice AB|Norra Kärnsjöns Fibernät Ekonomisk förening|Kungshamns Plåtservice Aktiebolag
+Stångens Byggnads AB,5566175336,2,55,Mattson; Robert Edgar,4,7,Stångens Byggnads AB|Stångens Maskinuthyrning AB|Edgar och Maurits AB|Stången Holding AB
+Skorstenspojkarna AB,5569035982,4,33,Alevåg; Björn Patrik,4,2,Trä & Mur Kompaniet i Kba AB|Skorstenspojkarna AB|Skorstenspojkarna Kommanditbolag|Albo Holding AB
+Fogelgrens Byggservice AB,5568864192,2,50,Fogelgren; Rikard Gösta Henry,5,3,GFB i Tvåstad AB|Fogelgrens Byggservice AB|CARIFO Konsult AB|CARIFO Fastigheter AB|CARIFO AB
+MAKAJO Sverige AB,5568093172,3,49,Mandell; Jonna Kaarina,2,13,MAKAJO Sverige AB|MAKAJO AB
+Västtransport AB,5569637464,2,41,Nolblad; Lasse Rikard,4,11,Västtransport AB|Lastno Aktiebolag|NOLAB i Lysekil Aktiebolag|Relocated AB
+Åsarps Bygg & Handel AB,5566437108,3,61,Henriksson; Marie,4,1,Åsarps Bygg & Handel AB|Svartagården i Falköping AB|PEJK Aktiebolag|Åsarps Holding AB
+Nya Bygg-Lars i Trollhättan Aktiebolag,5564723129,2,70,Swenson; Lars Evert,1,4,Nya Bygg-Lars i Trollhättan Aktiebolag
+Nya Bygg-Lars i Trollhättan Aktiebolag,5564723129,2,70,Svensson; Helena Cathrine,2,4,Nya Bygg-Lars i Trollhättan Aktiebolag|Indo Art
+AB Tingstad Rörinstallation,5567115059,4,50,Fasnacht; Mikael Joakim,4,9,Aquadus VVS AB|AB Tingstad Rörinstallation|MIFAS i Göteborg AB|MIFAS Förvaltnings AB
+Ricono Produktion AB,5563197671,2,65,Rau; Hans Enrico,2,7,Ricono Produktion AB|Ricono
+Rylanders VVS AB,5591184873,3,61,Karlsson; Lars Magnus Johan,4,3,Rylanders El i Lysekil AB|Rylanders VVS AB|Lysekils Elektriska AB|KAMP Förvaltnings AB
+Stavrex AB,5590468863,6,51,Karlsson; Karl Henrik,4,0,Stavrex AB|H&F Miljöartiklar Kommanditbolag|H&F NORDIC SALES Aktiebolag|PREIF Konsult AB
+Made for Movement Sweden AB,5565947834,2,54,Rosengren; Anders Fredrik,1,0,Made for Movement Sweden AB
+MTB Byggservice Aktiebolag,5566229877,3,55,Evertsson; Egon Michael,15,15,MTB Plattsättning Aktiebolag|Kakelmäster i väst AB|MTB Byggservice Aktiebolag|MTB Kakelservice AB|Skene Slottspark AB|MTB Bygg i Lindome Aktiebolag|Rätt Bett AB|Förorternas Bygg AB|Eposcan Aktiebolag|MTB Stomvägen AB|MTB BYGG HANDELSBOLAG|Martin & Michael Holding AB|Billdalshöjden AB|Kommanditbolaget Främmestad nr 1|MTB Fastighets Kommanditbolag
+Sambex Innovation Aktiebolag,5562306893,2,74,Samfelt; Kurt Erik,2,4,Sambex Innovation Aktiebolag|HERBIQUE HANDELSBOLAG
+Studio Ekberg AB,5590233218,3,52,Isacson; Johan Alexander,1,1,Studio Ekberg AB
+Skarabygdens Kraftmontage AB,5591192355,6,36,Svensson; Kurt Arne Peter,1,1,Skarabygdens Kraftmontage AB
+Labkontroll Väst AB,5567862148,3,53,Jorfors; Jan Robert,2,2,Labkontroll Sverige AB|Labkontroll Väst AB
+Con-Form Stockholm AB,5567935720,4,55,Christensen; Nils,3,3,Con-Form Sweden AB|Con Form Töcksfors AB|Con-Form Stockholm AB
+kodeda konsulter AB,5566866512,4,38,Jenefeldt; Eva Camilla,2,2,kodeda konsulter AB|Ivra AB
+Next Step Group Utveckling AB,5568451974,3,44,Torell; Jacob Mattias,74,56,Västsvenska Handelskammaren Service AB|Nya Hovås Fastigheter AB|Next Step Group AB|Next Step Group Utveckling AB|Spektrumhuset i Nya Hovås AB|Primohuset i Nya Hovås AB|The House Nya Hovås AB|Nya Hovås Stadsutveckling AB|Mötesplats Hovås Kontor Aktiebolag|Nya Hovås Parkering AB|Next Step Group Logistik AB|Nya Hovås Butiksfastigheter nr 2 AB|Fastighets AB Tingshuset 13|Nya Hovås Butiksfastigheter nr 1 AB|Härryda Projektutvecklings AB|Nya Hovås Butiksfastigheter nr 3 AB|Härryda Fastighets AB|Gothenburg CoValley AB|Next Step Group Fastigheter AB|Mötesplats Hovås Aktiebolag|Nodi i Nya Hovås AB|Mölnlycke Logistikpark AB|Wendelstrand nr 1 AB|Nya Hovås Butiker AB|Lilla Huset i Nya Hovås AB|Origo Hovås nr 3 AB|Wendelstrand nr 12 AB|Wendelstrand Holding 5 AB|Next Step Group Holding AB|Wendelstrand Fastighets AB|Majira Real Estate 2 AB|Wendelstrand nr 10 AB|Wendelstrand nr 11 AB|GoCo Development AB|Wendelstrand nr 15 AB|Majira Real Estate 5 AB|Majira Real Estate 3 AB|Majira Real Estate 4 AB|Majira Real Estate 9 AB|Majira Real Estate 8 AB|billdals invest AB|Majira Real Estate 10 AB|Wendelstrand nr 2 AB|Wendelstrand Holding 1 AB|Wendelstrand nr 4 AB|Wendelstrand nr 3 AB|Wendelstrand Holding 4 AB|Wendelstrand Holding 3 AB|Wendelstrand Holding 2 AB|Wendelstrand nr 16 AB|Wendelstrand nr 9 AB|Wendelstrand nr 8 AB|Wendelstrand nr 20 AB|Wendelstrand nr 13 AB|Wendelstrand nr 14 AB|Origo Hovås nr 10 AB|Majira Holding 3 AB|Majira Holding 1 AB|Majira Holding 2 AB|Majira Real Estate 1 AB|Majira Real Estate 6 AB|Origo i nya Hovås AB|First Step Fastigheter AB|Majira Real Estate 12 AB|Majira Real Estate 11 AB|Nya Hovås II AB|Wendelstrand nr 17 AB|Wendelstrand nr 18 AB|Wendelstrand nr 7 AB|Wendelstrand nr 6 AB|Wendelstrand nr 5 AB|Majira Real Estate 7 AB|Wendelstrand nr 19 AB|Next ESS Fastighetsutveckling AB
+Innovation Brands AB,5568680036,3,43,Nylén; Mats Gösta Wilhelm,4,12,Innovation Brands AB|Magownytoo AB|Casgow AB|Magowny Invest AB
+Omvent AB,5591172811,2,64,Dävermo; Curt Stefan,1,3,Omvent AB
+Kättilstorps Elektriska Aktiebolag,5561959049,6,54,Gyllensvaan; Nils Erik,5,4,Aktiebolaget Gyllensvaans Möbler|Kättilstorps Elektriska Aktiebolag|Ecospaan AB|Berg Skanderåsen 1:84 AB|Right in time AB
+Nivogradnja Bygg AB,5591228894,3,46,Mikelic; René,1,1,Nivogradnja Bygg AB
+Snickargruppen i Bohuslän AB,5590889209,3,40,Stjernqvist; Hans Jimmi Cristofer,4,2,UA SB Gruppen AB|Snickargruppen i Bohuslän AB|Plåtslagargruppen i Bohuslän AB|Svenska Byggruppen Inköp & Produktion AB
+Måleribolaget Entreprenad i Alingsås AB,5564032307,3,57,Sköld; Björn Jonny,2,5,Måleribolaget Entreprenad i Alingsås AB|Måleriföretagen i Sveriges Serviceaktiebolag.
+Logistikkonsult Göteborg AB,5566652532,3,43,Lundskog; Claes Björn,7,7,Logistikkonsult Göteborg AB|Två Feta Grisar AB|Askim Badminton Förvaltnings AB|Hälsokonsulterna Hälsa mera AB|LOGIKON Handelsbolag|M & C Invest Källö-Knippla AB|Källö-Knippla Båtcharter AB
+Logistikkonsult Göteborg AB,5566652532,3,43,Lundskog; Jacob Einar,1,1,Logistikkonsult Göteborg AB
+Västsvenska Port & El Aktiebolag,5563609030,4,46,Henberg; Pernilla Sofie,2,1,Västsvenska Port & El Aktiebolag|Svenska PortConcept AB
+Västsvenska Port & El Aktiebolag,5563609030,4,46,Glada; Linda Therese,2,0,Västsvenska Port & El Aktiebolag|Svenska PortConcept AB
+Projektpunkten AB,5567093249,3,57,Tauson; Lars-Erik,3,4,PRP Förvaltning AB|Röse Projekt AB|Projektpunkten AB
+Aedes AB,5590074224,2,62,Rosenberg; Christina Margaretha,3,3,Aedes AB|Colligi AB|Betula
+TSFS Entreprenad AB,5568623259,5,49,Bengtsson; Tomas Marcus,2,6,TSFS Entreprenad AB|Banderman Construction
+Pure Solutions Scandinavia AB,5564870938,2,48,Ringvall; Jens Gunnar,1,5,Pure Solutions Scandinavia AB
+P O Ågren Måleri Göteborg Aktiebolag,5561274738,4,45,Omnéus; Patrik Svante Bertil,1,1,P O Ågren Måleri Göteborg Aktiebolag
+PQR GÖTEBORG AB,5568395924,3,50,Apell; Bengt Thomas,1,3,PQR GÖTEBORG AB
+TBC ENTREPRENAD AB,5590716949,4,38,Andersson; Per Oskar Christer,1,1,TBC ENTREPRENAD AB
+JH Byggresurs i Väst AB,5591126684,3,36,Nilsson; Lars Arvid Joakim,7,4,JH Byggresurs i Väst AB|JHB Holding AB|JHB Group AB|STENUNG 4:185 AB|Vind Olskroken 15:2 AB|JHB Fastighet AB|JHB Fastighetsförvaltning AB
+Logistics Erlendur Thor Hilmarsson AB,5591093769,4,40,Cedås; Erik Oscar Daniel,2,0,CPR by Cedås AB|Logistics Erlendur Thor Hilmarsson AB
+Logistics Erlendur Thor Hilmarsson AB,5591093769,4,40,Hilmarsson; Erlendur Thor,2,13,101 Rvk Holding AB|Logistics Erlendur Thor Hilmarsson AB
+Repiper Solutions AB,5569846842,3,58,Nilsson; Lars Göran,4,16,Repiper Solutions AB|Bostadsrättsföreningen Domnarvet 10|Repiper AB|Cloacina Invest AB
+Repiper Solutions AB,5569846842,3,58,Brandt; Lars Patrik,18,30,Patrik Brandt Invest AB|ISAB Group AB|ISAB Ventilation Väst AB|ISAB Rörinfodring Syd AB|ISAB Rörinfodring Väst AB|ISAB Ventilation Syd AB|Repiper Solutions AB|Fastighets AB Kretskortet 1|Hofaren Service AB|Repiper AB|ISAB Marine AB|ISAB Solutions AB|Boxer Creation AB|Hofaren Förvaltnings AB|ISAB Rörinfodring Öst AB|ISAB Rörinfodring AB|John Fredrik Sweden AB|Bless Group AB
+Planeringsaktiebolaget S.E.S.,5560931411,3,51,Lundström; Mats Christian,12,7,Planeringsaktiebolaget S.E.S.|Magnusson Bygg i Viskafors AB|Ås Härads Service & Förvaltning AB|Bremholts Entreprenad AB|Bremholts Trade AB|MCL Invest AB|Foliemontörerna Väst AB|Ås Härads Holding AB|S. Magnusson Bygg Aktiebolag|Bremholts Holding AB|JC Fastighetsförmedling i Väst AB|Investmentbolaget Bremholt AB
+Majornas mur & plattsättning AB,5569052862,3,38,Nader; Yahva,3,2,Totalentreprenören Robban AB|Majorna investering AB|Majornas mur & plattsättning AB
+Kortedala Glasmästeri Aktiebolag,5561065003,5,52,Gustafsson; Lars Tommy,1,1,Kortedala Glasmästeri Aktiebolag
+Weatherproof Family AB,5590643812,4,38,Edlund; Peter Olof,4,4,Weatherproof Family AB|Wet Whistle Brewery AB|Edlund Redovisning AB|LOOKIA AB
+Weatherproof Family AB,5590643812,4,38,Rosenström; Juha Leo Kristian,3,2,Weatherproof Family AB|Wet Whistle Brewery AB|LOOKIA AB
+Ritningen Arkitektbyrå i Skövde Aktiebolag,5563742849,2,64,Blixt; Per Ingvar,4,2,Ritningen Arkitektbyrå i Skövde Aktiebolag|Fastighetsbolaget Blixt AB|Ritningen Förvaltning AB|Ritningen AB
+Sven-Mikael Entreprenad Aktiebolag,5562166594,4,65,Råd; Sven Mikael,2,3,Smeab AB|Sven-Mikael Entreprenad Aktiebolag
+Schaktbolaget i Borås AB,5568906381,3,45,Laxholm; Andreas James,2,2,Schaktbolaget i Borås AB|Schaktbolaget i Borås Förvaltning AB
+Svensk Kraftbetong AB,5591624340,3,39,Lagerberg; Hans Nicklas Benno,6,0,Ottestala Schakt Aktiebolag|Svensk Kraftbetong AB|Ottestala Fastigheter AB|Övre Ströms Bygg & Service AB|Svenska Kraftbetong AB|Lagerberg Holding AB
+Billström Riemer Andersson Teknik AB,5591331714,6,50,Larsson; Torsten Peter,1,1,Billström Riemer Andersson Teknik AB
+Sectec AB,5566977798,2,55,Johansson; Lennart Valter Robert,2,1,Levaro AB|Sectec AB
+Fiction Design AB,5569077679,3,45,Holm; Anders Gunnar,1,3,Fiction Design AB
+Fiction Design AB,5569077679,3,45,Jämtén; Johan Erik Gustaf,1,2,Fiction Design AB
+MODESTY Concept AB,5569051880,3,51,Biörsmark; Catina Marie,2,2,Sybaris Consult AB|MODESTY Concept AB
+MODESTY Concept AB,5569051880,3,51,Holmén; Gunvor Cecilia,2,1,MODESTY Concept AB|CH Concept AB
+Långeruds Entreprenad AB,5568720378,2,46,Långerud; Lars Johan,1,3,Långeruds Entreprenad AB
+Kanozi Inredning & Design AB,5566313366,4,55,Norén; Johan Anders,8,41,Kanozi Arkitekter AB|Kanozi Inredning & Design AB|Kanozi Sverige AB|Izonak AB|Spind AB|Johan&Johan AB|Zikanoda AB|Kanozi Holding AB
+Kanozi Inredning & Design AB,5566313366,4,55,Casselbrant; Johan,7,15,Kanozi Arkitekter AB|Kanozi Inredning & Design AB|Kanozi Sverige AB|Tolkfirma Nea AB|Zikanoda AB|Johan&Johan AB|Kanozi Holding AB
+Collabra AB,5566050521,2,48,Gränström; Joanna Aleksandra,3,6,Collabra AB|Happiest AB|Curveball AB
+Portteknik Väst AB,5591291389,2,52,Sjöberg; Daniel Stefan,2,0,Portteknik Väst AB|Sjöbergs Portteknik AB
+Mölnlycke Mur o Puts AB,5591228233,2,43,Gustafsson Henriksson; David Dennis,1,2,Mölnlycke Mur o Puts AB
+Torslanda Gräv & Schakt AB,5567749378,2,37,Nord; Kristian,8,6,Västsvenska Förvaltnings AB|Hål i Betong i Världen AB|VFK Rent-it AB|Torslanda Gräv & Schakt AB|Västsvenska Miljökonsult AB|Hål i Betong i Väst Anläggning AB|Västsvenska VFK Fastighetsutveckling AB|Personlig Växtkraft AB
+PEGEA rör AB,5569300675,4,53,Larsson; Bengt Peter,1,2,PEGEA rör AB
+Tini Gruppen AB,5568725716,3,48,Trdevaj; Sami,7,8,Skandinaviska Puts & Murteknik AB|Göteborgs Fasadputs Aktiebolag|Tini Gruppen AB|Trecent AB|EBT Halmstad AB|7H.B.VVS AB|EBT Riv & Sanering AB
+S.B.M. Stenungsunds Blästring o Måleri            Aktiebolag,5563175040,3,50,Törnfeldt; Per Stefan,1,0,S.B.M. Stenungsunds Blästring o Måleri            Aktiebolag
+Twintec Nordics AB,5566756812,4,45,Lazzari; Bruno Giovanni,1,1,Twintec Nordics AB
+Mark & Miljö Väst AB,5566391842,2,49,Berg; Leo,17,3,Kungsbacka Lastbilcentral AB|VIAVEST AB|LETF AB|Viavest Maskin AB|Mark & Miljö Väst AB|Lerjedalen Markberedning AB|Kungsbacka Lastbilcentral Fastighets              Aktiebolag|Transportcentrum i Kungsbacka AB|LET RENT I GÖTEBORG AB|Dvärreds Mark och Trädgårdsprodukter|LET Fastigheter i Väst AB|Viavest Miljö AB|JLE Fastigheter i Sverige AB|Kungsbacka Lastbilscentral Ekonomisk förening|LETF Miljö AB|L BERG BOLAGEN AB|Kungsbacka Mölndal Holding AB
+Crabat Projektering AB,5569352825,3,47,Bergström; Christer Eddy,4,3,Crabat AB|Crabat Bygg & Projektledning AB|Crabat Projektering AB|Pened ÖGM AB
+Yngves Elektronik AB,5566249248,4,43,Olofsson; Pär Johan,2,0,Yngves Elektronik AB|PARJO AB
+Cernera Projekt AB,5590755038,3,53,Angwald; Lars Eric,42,30,Cernera Fastigheter AB|Cernera Katrinedal 11 AB|Cernera Projekt AB|Cernera Landala 2 AB|Cernera Maskrosen AB|Cernera Förvaltning AB|Cernera K7 AB|Cernera Näckrosen 4 AB|Cernera Forsen AB|Cernera Guldbaggen AB|Cernera Merkurius 1 AB|Cernera Perseus 3 AB|Cernera Östermalm AB|Cernera Heimdal AB|Cernera Eldflugan 1 AB|Cernera K 1:158 AB|Cernera Kilsund 9 AB|Cernera Svanen 6 AB|CEB Gaffelkremlan AB|Cernera Bostadsförsäljning AB|Cernera Guldbaggen 28 AB|Interman Holding Aktiebolag|CEB Mjälle 1:49 AB|Cernera Resedan AB|Cernera Källbäcksryd 1:59 AB|CEB Holding III AB|CEB Holding IV AB|CEB Lunden 2 AB|CEB Port 17 AB|CEB Stallbacken CL AB|CEB Minan 6 AB|CEB Holding V AB|CEB Byttorpstå AB|Cernera Bostads AB|CEB Nykvarn AB|CEB Holding VI AB|CEB Lunden C AB|CEB Lunden 1 AB|CEB Holding I AB|Cernera Komplementär AB|Cernera Holding 1 AB|Brutus i Borås AB

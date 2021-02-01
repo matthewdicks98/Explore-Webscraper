@@ -128,9 +128,13 @@ class CompaniesFilteringSpider(scrapy.Spider):
 
         for company in companies_data:
             name = company.xpath('.//div[2]/h2/a/text()').get()
-            #link = company.xpath('.//div[2]/h2/a/@href').get()
-            number = company.xpath(
-                './/dl/dd[1]/text()').get().replace("-", "")
+            if name:
+                name = name.replace(",", ";")
+
+            number = company.xpath('.//dl/dd[1]/text()').get()
+            if number:
+                number = number.replace("-", "")
+            
             self.names.append(name)
             self.numbers.append(number)
 
@@ -176,8 +180,6 @@ class CompaniesFilteringSpider(scrapy.Spider):
         # clear the revenue filter
         driver.get(base_url[:-4])
 
-        #return revenue_htmls
-
 
 
     def parse(self, response):
@@ -185,5 +187,5 @@ class CompaniesFilteringSpider(scrapy.Spider):
         for i in range(len(self.numbers)):
             yield {
                 'company_no': str(self.numbers[i]),
-                'company_name': self.names[i].replace(",",";")
+                'company_name': self.names[i]
             }

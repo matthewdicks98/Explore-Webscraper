@@ -48,7 +48,7 @@ class BoardSpider(scrapy.Spider):
             executable_path=firefox_path, options=firefox_options, firefox_profile=fp)
 
         count = 0
-        for Id in ['5566764535']:  # self.ids[2000:6000]:
+        for Id in self.ids[50000:58000]:
             self.driver.get(f'https://www.allabolag.se/{Id}/befattningar/')
             time.sleep(self.load_time)
             print(f"%%%%%%%%%%%%%%%%%%%% {count} %%%%%%%%%%%%%%%%%%")

@@ -22,7 +22,7 @@ class FinancialsSpider(scrapy.Spider):
 
     ids = list(companies['company_no'].values)
 
-    start_urls = [f'https://www.allabolag.se/{Id}/bokslut' for Id in ids[:1000]]
+    start_urls = [f'https://www.allabolag.se/{Id}/bokslut' for Id in ids]
 
 
     def parse(self, response):
@@ -33,7 +33,6 @@ class FinancialsSpider(scrapy.Spider):
                 yield {
                     'company': element.css('h1::text').get().replace(",",";"),
                     'id': int(element.css('span.orgnr::text')[1].get().replace('\n', '').strip().replace('-', '')),
-                    #'year': element.css('label::text')[i-2].get(),
                     'year': element.xpath(f'//th[@class = "data-pager__page data-pager__page--{i-2}"]/text()').get().strip()[:7][:4],
                     'date': element.xpath(f'//th[@class = "data-pager__page data-pager__page--{i-2}"]/text()').get().strip()[:7],
                     'net_sales': element.css(f'td:nth-child({i})::text').get().replace('\n', '').replace(' ', '').strip(),
