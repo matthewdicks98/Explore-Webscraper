@@ -2,10 +2,10 @@
 Webscraping financial data to help in predicting bankrupcy.
 
 ## Technical set-up
-Ubuntu: 18.04
-Python: 3.8.5
-scrapy: 1.6.0
-Firefox Browser: 85.0 (64-bit)
+Ubuntu: 18.04<br/>
+Python: 3.8.5<br/>
+scrapy: 1.6.0<br/>
+Firefox Browser: 85.0 (64-bit)<br/>
 Gecko Driver: v0.28.0-linux64 
 
 ### Note on drivers
@@ -27,15 +27,15 @@ First disable the ITEM_PIPELINES middleware by commenting it out in the settings
 
 Run the following command to start and run the companies_filtering.py spider:
 
-'''bash
+```bash
 $ scrapy crawl companies_filtering 
-'''
+```
 
 If you want to store your data in a file run the following command:
 
-'''bash
+```bash
 $ scrapy crawl companies_filtering -o path_to_file/file.(csv, json)
-'''
+```
 
 You need to specify either a .csv or .json file extension.
 
@@ -44,24 +44,24 @@ First enable the ITEM_PIPELINES middleware by uncommenting it out in the setting
 
 Use the following command to run the financials and status spiders in parallel:
 
-'''bash
+```bash
 python3 driver
-'''
+```
 
 ## Board collection
 First disable the ITEM_PIPELINES middleware by commenting it out in the settings file. Also ensure that throttling is enabled. Set the throttling parameters to what will maximise the speed and minimize the 503 errors over your network.
 
 Run the following command to start and run the board.py spider:
 
-'''bash
+```bash
 $ scrapy crawl board 
-'''
+```
 
 If you want to store your data in a file run the following command:
 
-'''bash
+```bash
 $ scrapy crawl board -o path_to_file/file.(csv, json)
-'''
+```
 
 You need to specify either a .csv or .json file extension.
 
