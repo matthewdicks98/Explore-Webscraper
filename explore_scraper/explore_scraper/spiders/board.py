@@ -14,6 +14,12 @@ import math
 
 
 class BoardSpider(scrapy.Spider):
+    """
+    This spider collects the data realing to the board. This spider uses selenium to perform
+    actions and scrape javascript pages. When running this spider ensure that ITEM_PIPELINES is 
+    disabled (commented out) in the pipelines file. This spider uses a headless firefox browser.
+    """
+
     name = 'board'
     allowed_domains = ['www.allabolag.se']
     start_urls = ['https://www.allabolag.se/5560004615/befattningar/']
@@ -32,9 +38,14 @@ class BoardSpider(scrapy.Spider):
     load_time = 1
 
     def __init__(self):
+        """
+        Initializes the headless firefox browser and loads the executive pages for each company.
+        """
 
+        # start timer
         self.s = time.time()
 
+        # initialize browser
         firefox_options = Options()
         firefox_options.add_argument("--headless")
 
@@ -47,8 +58,9 @@ class BoardSpider(scrapy.Spider):
         self.driver = webdriver.Firefox(
             executable_path=firefox_path, options=firefox_options, firefox_profile=fp)
 
+        # get the executive page for a company
         count = 0
-        for Id in self.ids[50000:58000]:
+        for Id in self.ids:
             self.driver.get(f'https://www.allabolag.se/{Id}/befattningar/')
             time.sleep(self.load_time)
             print(f"%%%%%%%%%%%%%%%%%%%% {count} %%%%%%%%%%%%%%%%%%")
@@ -63,6 +75,9 @@ class BoardSpider(scrapy.Spider):
         self.driver.quit()
 
     def parse_page(self, response):
+        """
+        Creates a dictionary with all the information for the executives for a single company.
+        """
 
         # explicitely defining storage
         executives_dict = {}
@@ -123,6 +138,9 @@ class BoardSpider(scrapy.Spider):
 
 
     def get_executives_info(self, response):
+        """
+        For each company, this function collects individual information for each executive.
+        """
 
         # defining storage
         executive_names = []
@@ -139,6 +157,7 @@ class BoardSpider(scrapy.Spider):
             executives = response.xpath(
                 '//div[@class = "tw-flex tw-w-full tw-flex-col"][1]/div/div[@class="tw-px-2 tw-py-3 tablet:tw-px-2 tablet:tw-py-3 tablet:tw-flex tablet:tw-justify-between tablet:tw-items-center hover:tw-bg-gray-100"]')
 
+            # for each executive get their information
             i = 1
             for executive in executives:
 
@@ -198,6 +217,10 @@ class BoardSpider(scrapy.Spider):
         return executive_names, active_assignments, prev_assignments, companies
 
     def get_companies(self, original_url, response, exec_count, active_assignments):
+        """
+        Collects the names of the companies that an executive has worked for.
+        """
+
         exec_companies = []
         exec_companies_string = ''
 
@@ -275,6 +298,10 @@ class BoardSpider(scrapy.Spider):
         
 
     def parse(self, response):
+        """
+        This is the scrapy parse function that is used to write the data to a file
+        """
+
         for i in range(len(self.all_companies)):
             # get the company info
             company_dict = self.all_companies[i]
@@ -283,7 +310,7 @@ class BoardSpider(scrapy.Spider):
                 yield {
                     'company':company_dict['name'],
                     'id': company_dict['id'],
-                    'number_of_board_memebers': company_dict['num_board_members'],
+                    'number_of_board_members': company_dict['num_board_members'],
                     'average_age_board': company_dict['avg_age_board'],
                     'executives': company_dict['executives'][j],
                     'total_active_assignments': company_dict['active_assignments'][j],

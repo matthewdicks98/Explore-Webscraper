@@ -65,11 +65,16 @@ DOWNLOAD_DELAY = 1
 #    'scrapy.extensions.telnet.TelnetConsole': None,
 #}
 
+## Ensure that the ITEM_PIPELINES is enabled when running the driver code. Ensure that it is 
+## disabled when running the companies_filtering and board code.
+
 # Configure item pipelines
 # See https://doc.scrapy.org/en/latest/topics/item-pipeline.html
 #ITEM_PIPELINES = {
 #   'explore_scraper.pipelines.ExploreScraperPipeline': 300,
 #}
+
+## I needed to use this throttling to reduce the number 503 errors
 
 # Enable and configure the AutoThrottle extension (disabled by default)
 # See https://doc.scrapy.org/en/latest/topics/autothrottle.html
