@@ -21,8 +21,8 @@ class ExploreScraperPipeline(object):
         """
         
         # open files
-        self.status_file = open(os.getcwd()+"/data/financials/status_forms_test1000.csv",'w+b')
-        self.fin_file = open(os.getcwd()+"/data/financials/fin_forms_test1000.csv", 'w+b')
+        self.status_file = open(os.getcwd()+"/data/financials/status_forms_test10.csv",'w+b')
+        self.fin_file = open(os.getcwd()+"/data/financials/fin_forms_test10.csv", 'w+b')
         self.status_exporter = CsvItemExporter(self.status_file)
         self.fin_exporter = CsvItemExporter(self.fin_file)
 
